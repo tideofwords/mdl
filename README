@@ -1,0 +1,92 @@
+This is an incomplete attempt to parse the sample mobile driver's license found here:
+https://github.com/spruceid/isomdl/blob/main/tests/data/stringified-mdl.txt
+
+The script mycbor2.py produces output cbor_pretty.
+
+The meat of the MDL is a series of key-value pairs:
+  administrative_number: ABC123
+  age_birth_year: 1980
+  etc.
+
+Each key-value pair is serialized in a CBOR ("CBORTag 24"),
+containing a dictionary with four entries:
+  - digestID ("669216167")
+  - random  (a salt to hide the value)
+  - elementIdentifier ("administrative_number")
+  - elementValue ("ABC123")
+That CBOR is then hashed -- for example, for age_birth_year, 
+my parsing program outputs 
+                    Hash: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301
+
+All these hashes are then collected to be signed.
+They are collected in a different part of the CBOR: you can find the following...
+
+      Key: 669216167, Value of type <class 'bytes'>
+                    Hash: 63ab567ced5f983d0a7598447d288cac3c2e3969f358ec3c66552c60861a4d9e
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301
+
+... which matches the digestID and hash we found above.
+
+---
+
+I haven't been able to find where the signature is; I suspect this sample is not signed.
+
+---
+
+structure of the full file
+
+Dict of length 4:
+  - id
+  - issuer_auth: contains 4 items
+    - item 0 is {1: -7} (indicates signing algorithm?)
+    - item 1 seems uninteresting?
+    - item 2:
+      - version: 1.0
+      - digestAlgorithm
+      - valueDigests (This is where you find all the hashes from above)
+         (This is what I think should be signed)
+      - deviceKeyInfo
+      - docType
+      - validityInfo
+  - mso: same structure as above, but this is the one you want
+    - item 0 is {1: -7} (indicates signing algorithm?)
+    - item 1 seems uninteresting?
+    - item 2:
+      - version: 1.0
+      - digestAlgorithm
+      - valueDigests (This is where you find all the hashes from above)
+         (This is what I think should be signed)
+      - deviceKeyInfo (I think this should be the key you want)
+         (But in the sample file, this is the same as the "device key" above)
+      - docType
+      - validityInfo
+  - namespaces: this is where the real data is
+
+
+There is this "Item 3" which might be supposed to be the signature?
+  Item 3:
+    Parsed 64 bytes to object of type <class 'int'>
+    Error parsing data: 'bytes' object cannot be interpreted as an integer
+The hex is: 0930566bdaa5b0dcc836d9cab505b3f05203bab80dedbb46b955e55ec9522c08ec579b858ef53bd1c7892e26265928c36f44e2ea1927fa07ea83242b61095d29
+
+--
+
+I made some effort to parse the signature, but I don't think I did it right.
+I think it's supposed to be Ed25519, and these two hex items are supposed to be x and y coords
+for the verifier key
+
+      Key: -2, Value of type <class 'bytes'>
+                    Hash: 5a8a17817fc919a38f52e65e7fd64024f3f065289de5ad00a73e9bca7cbc1726
+                    Length of thing hashed: 34
+        Error parsing data: premature end of stream (expected to read 64604 bytes, got 29 instead)
+The hex is: 59fc5c8006ac52a39479c1aabacbbd1d56fcb98feeaa182334c45b3a7609029e
+      Key: -3, Value of type <class 'bytes'>
+                    Hash: 530c865d20026a40753a52cb5aa8b3a5b7fe17e76075012a1c9f6e5c454c7909
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1f
+The hex is: 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d
+
+The file sig_ver.py contains some code with an attempt to parse the signature,
+but I did not get it working.
