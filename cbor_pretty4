@@ -1,0 +1,2421 @@
+Parsed 117304 bytes to object of type <class 'dict'>
+Parsing object of type <class 'dict'>
+'dict' of length 4
+Key: id, Value of type <class 'bytes'>
+                    Hash: 9baed431c04e5830c839d94990610f770b604e677e29a96b6e67a63dc22df0d6
+                    Length of thing hashed: 17
+  Parsed 16 bytes to object of type <class 'int'>
+  Parsing object of type <class 'int'>
+  Int: 16
+Key: issuer_auth, Value of type <class 'list'>
+                    Hash: 7231453a36ac98eb0cf11c63eb20b2e8c585808b601b147b741a3aab5ac1af68
+                    Length of thing hashed: 3240
+  Parsing object of type <class 'list'>
+  list of length 4
+  Item 0:
+    Parsed 3 bytes to object of type <class 'dict'>
+    Parsing object of type <class 'dict'>
+    'dict' of length 1
+    Key: 1, Value of type <class 'int'>
+                    Hash: 951dcee3a7a4f3aac67ec76a2ce4469cc76df650f134bf2572bf60a65c982338
+                    Length of thing hashed: 1
+      Parsing object of type <class 'int'>
+      Int: -7
+  Item 1:
+    Parsing object of type <class 'dict'>
+    'dict' of length 1
+    Key: 33, Value of type <class 'bytes'>
+                    Hash: 2931aafc3261f875d01b908f28501eb425429feee967dfca7094038887559edc
+                    Length of thing hashed: 288
+      Parsed 285 bytes to object of type <class 'int'>
+      Parsing object of type <class 'int'>
+      Int: -17
+  Item 2:
+    Parsed 2875 bytes to object of type <class '_cbor2.CBORTag'>
+ef3f6710174a15525533feeb9fa26d99585b82b3feaba434093aa23b8d4d8154
+    Parsing object of type <class '_cbor2.CBORTag'>
+    CBORTag: 24
+      Parsed 2870 bytes to object of type <class 'dict'>
+      Parsing object of type <class 'dict'>
+      'dict' of length 6
+      Key: version, Value of type <class 'str'>
+                    Hash: 11eba96bc50924193b753d7b631f52b418b2c67d3382cb31c602c192d442def2
+                    Length of thing hashed: 4
+        Parsing object of type <class 'str'>
+        String: 1.0
+      Key: digestAlgorithm, Value of type <class 'str'>
+                    Hash: 5a1d1662b087214660478e75b67f5d1276e4041d8104bfa92286e4c92d81a2ba
+                    Length of thing hashed: 8
+        Parsing object of type <class 'str'>
+        String: SHA-256
+      Key: valueDigests, Value of type <class 'dict'>
+                    Hash: 442c897b69ae44dd25f5756a1090f42a64c6c73a9ace860febdea5406c05d5ea
+                    Length of thing hashed: 2582
+        Parsing object of type <class 'dict'>
+        'dict' of length 2
+        Key: org.iso.18013.5.1, Value of type <class 'dict'>
+                    Hash: baf4af1bdd4109042ee7f488ee5a041b78bc9528499fea40967fad39b1fecee6
+                    Length of thing hashed: 1445
+          Parsing object of type <class 'dict'>
+          'dict' of length 37
+          Key: 1923698, Value of type <class 'bytes'>
+                    Hash: f555eb0383adf440508379226737e1bc2233220a6931e3f6a9af57269da003d7
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: 0
+          Key: 87276176, Value of type <class 'bytes'>
+                    Hash: 1f5b6afa3b6c2d376aef0d070f66c4a505b40580d7cd25add7d00c6de1b06710
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 155627905, Value of type <class 'bytes'>
+                    Hash: 7742c1b270fdbce08534e40ea6898f400cea2ebbe8da17ba420109f9340efbec
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: a897ed9263e505ea97a5015507b4bea079487e6f09c437b30757ec3d52a9e66b
+          Key: 188423167, Value of type <class 'bytes'>
+                    Hash: c58accec15a76e9446116fd14f4e15b0d7e5a563ee436b5bf40371e331762dd1
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 75f7a9c41cbfa75fc440dce69b4394948eae757bcf4159585f5afe6045ca5c13
+          Key: 277714123, Value of type <class 'bytes'>
+                    Hash: a4d1e0cf26805d166590398f0ca80efef08047aeeb46a19f32189ac6eec9d249
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: 3580081624
+          Key: 306975492, Value of type <class 'bytes'>
+                    Hash: db8f25790b08515e7717c15cfd4e2557e7588712cb720e724e88b19592d7abcc
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+            Parsing object of type <class 'CBORSimpleValue'>
+            tuple of length 1
+            Item 0:
+              Parsing object of type <class 'int'>
+              Int: 11
+          Key: 522529204, Value of type <class 'bytes'>
+                    Hash: 165f84c9d8c5e51b29e270f065d06526da3032b561fa6f97e3044ccfd79f9612
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+a1dada8435f1740fb3406d58872af133a026b5aff34051b1452c5cb612645c70
+            Parsing object of type <class '_cbor2.CBORTag'>
+            CBORTag: 14
+              Parsing object of type <class 'int'>
+              Int: 9
+          Key: 549386233, Value of type <class 'bytes'>
+                    Hash: 5aeb905ec438dbf52b9372b415d02d3b118962b0caf48a9883543179b766940f
+                    Length of thing hashed: 34
+            Error parsing data: invalid datetime value: b'\xc8\xbb\x91\xf8u \xadC\xd6'
+The hex is: b82708e722c049c8bb91f87520ad43d64c73883fe6f00ef561abc74ebd94e309
+          Key: 552965293, Value of type <class 'bytes'>
+                    Hash: 79c91e8cf4a79141140809927ad8057be3de2c64f2294b391af7bec2a2ac4bd0
+                    Length of thing hashed: 34
+            Error parsing data: invalid bignum value False
+The hex is: acccc2f4cb34b213878a8ea5a51bd4f9661dd12ace9842675a04bf3a67a7e366
+          Key: 604136720, Value of type <class 'bytes'>
+                    Hash: db0498cfa348a06f21e7e2e7efc96034c7220057ecd9a3c7453183d7daee1fa2
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+e19817d6ea0653e13a14e31f8b89e48ca7e9e9e4f4814d4ad304fc9429067d19
+            Parsing object of type <class '_cbor2.CBORTag'>
+            CBORTag: 20
+              Error parsing data: premature end of stream (expected to read 21 bytes, got 19 instead)
+The hex is: 75c019fba27ce9e45548cdf2e771372a3faa9de1
+          Key: 622008541, Value of type <class 'bytes'>
+                    Hash: 2397ccae370d8ef7138db792ffb9f8893b856dc46cba8227ac57f2e4221648f2
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+            Parsing object of type <class 'CBORSimpleValue'>
+            tuple of length 1
+            Item 0:
+              Parsing object of type <class 'int'>
+              Int: 1
+          Key: 669216167, Value of type <class 'bytes'>
+                    Hash: 63ab567ced5f983d0a7598447d288cac3c2e3969f358ec3c66552c60861a4d9e
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301
+          Key: 670451011, Value of type <class 'bytes'>
+                    Hash: 2e7c1de7d7726ec67e109df3a89ea88f6129aa87b63b2bbacd12a3a9f99e704e
+                    Length of thing hashed: 34
+            Error parsing data: excessive bytestring size 0x8DE6D6BA59CC9988
+The hex is: c45b8de6d6ba59cc998818874824040b8af53f7618775f2aadb1b78f9ba00d81
+          Key: 713326463, Value of type <class 'bytes'>
+                    Hash: 22ccc8191de34de52867d19f09a06d871db8c60e6454482ed45465123055530e
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'float'>
+            Parsing object of type <class 'float'>
+          Key: 935783380, Value of type <class 'bytes'>
+                    Hash: 87ddeda619326c47e8a1b13f14295b9ef5609ccce72922c1e56e9e2cffb8790d
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: 5dbf8d454c71cf26cda0f3dc830ccb8ca721037cf51926cf5211458a4d3c1861
+          Key: 1007109838, Value of type <class 'bytes'>
+                    Hash: ee85378d56b5f7afb5f763b75581ebce15e262258591bc0d22f20fc4363ea4b1
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: -19
+          Key: 1010531607, Value of type <class 'bytes'>
+                    Hash: 00929ff27aa5dff0d0ee78c484669ed4f9e1b2501cbdba00b006c0284f626ccb
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: bd4524877110927dfc584816c0d507ad9c0367988b01c7c7ecd50901a69379d0
+          Key: 1082869776, Value of type <class 'bytes'>
+                    Hash: 63b47f31d963922ba2dd6fc94ab36b6de3c6a2a6a4cdd7fa910a64a5d73c50b4
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1f
+The hex is: bf17d7b70fa32e24d40245a2bc7a387c87459c4f00d8c6df5aaa3b2c26071ed5
+          Key: 1217249582, Value of type <class 'bytes'>
+                    Hash: c443144d2af592d588536a0fb6ed6101c4b3ae3b91b772f626e606b41f6d64c1
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: 95ebd8d744cc864c563ca748e8e203df13e5891368697512f9f3ab3d4ba0dc21
+          Key: 1353949336, Value of type <class 'bytes'>
+                    Hash: 33b7274398c9272af6b3c7fe4b0c051b716e201698db3ed7a9b759c548de074a
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: 22
+          Key: 1409432892, Value of type <class 'bytes'>
+                    Hash: d3aeaa74c2e402295a57d30fc07197fa0f946d9d3a993dfb986eab06a5457d0a
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: a3ebcbcabdbfdb21724ae61205388a061f4f4da0b406fdd58df4fb8f13cb7f2a
+          Key: 1485031251, Value of type <class 'bytes'>
+                    Hash: 7f259b81409e661606f44fe0cf93eb7952ee29119bfda26cc7ffe817bb5527b4
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: d33c57b9a46caf1d9121bec3272156d75953212b902b628ec5b459f5371b9f32
+          Key: 1527892759, Value of type <class 'bytes'>
+                    Hash: 241c13317554388c04cea066624f39c62a7de8eae75d94da741a1127670ca527
+                    Length of thing hashed: 34
+            Error parsing data: invalid bignum value 6759765111566205697
+The hex is: c21b5dcf828ddffb8301965175dfcdeeee9132435338364942ef1b7a9df3d78d
+          Key: 1645309580, Value of type <class 'bytes'>
+                    Hash: ebb216ca6e6c174893aebaa93ae66651a34ed17c359cf87d554f7b52f0c6965d
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: 8c3cc4e5714865c50556cf8b2e3c193a2af737655338ab6ca0641e749c507f44
+          Key: 1695363034, Value of type <class 'bytes'>
+                    Hash: d6369626521a25ceb30deef13f04f06b4edcc7e9eda6c257428b56630d8b5176
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 958ef3030e3aab9ee1176ed5c983eedbbd246bb3478a8c8106443f6dc6f75891
+          Key: 1723317653, Value of type <class 'bytes'>
+                    Hash: d2e37574c5d5f845df1da4ab9b245bf917542283bd3ff4eac5e9a50ac260519f
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 1749557145, Value of type <class 'bytes'>
+                    Hash: 93bf711a564e851b275cc390d30eeb3fc91d72d4aa8a0a758b1cba2a4e138e5d
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: -9
+          Key: 1760766134, Value of type <class 'bytes'>
+                    Hash: 87f2406157fbd8072a0ea169d9ef64649388b26b9405f49c381fb255bd47e1cf
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 1837341636, Value of type <class 'bytes'>
+                    Hash: 0fa5d33984ab161d8f48569e47299f2f0ba87adbca8224d63eb37f99a2f8e92f
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 6f6e673c3bd24e80590950dd39afa5203a8348debe30e1952ae9b7477c2c609d
+          Key: 1848090974, Value of type <class 'bytes'>
+                    Hash: fc7dc044bb7cd260503054b068c3f850138eae7324f2f40883206048941d387a
+                    Length of thing hashed: 34
+            Error parsing data: premature end of stream (expected to read 65536 bytes, got 27 instead)
+The hex is: 7aa56106289b8bc52de6f0584a9f2579a4152d85c00f560394de71e6a1f388f7
+          Key: 1960236129, Value of type <class 'bytes'>
+                    Hash: 003f699ddf7629075a61ddb240715bfcaa2fe5f771c95860ba8a88f8c9935058
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: -10
+          Key: 1966654058, Value of type <class 'bytes'>
+                    Hash: 195f6d6dd6cb404c1d043fec01b92abeb1448a497b3083362e8d2ecbbbda30bb
+                    Length of thing hashed: 34
+            Error parsing data: premature end of stream (expected to read 32408 bytes, got 27 instead)
+The hex is: 9116797e98fe38f70c2136b58270dd0e1dbc0761e7f647ed2b463d7a767de054
+          Key: 1974510984, Value of type <class 'bytes'>
+                    Hash: 9da23890d5dabfb892ff03d8cd9087513f909629c6cde6028be9446559f65a63
+                    Length of thing hashed: 34
+            Error parsing data: Undefined Reserved major type 7 subtype 0x1d
+The hex is: acfd93cd86dba89c551d044a63c43c991bc5f68eadbcad811dc70fd13d50d6f9
+          Key: 2054379700, Value of type <class 'bytes'>
+                    Hash: 34599a8a20bb908a4ec0e88a42228ba9bf3738aaba39fe67f7b2a14cdb5e67bf
+                    Length of thing hashed: 34
+            Error parsing data: premature end of stream (expected to read 180 bytes, got 30 instead)
+The hex is: 78b48323ced9d4b72a7ce91eddded60f384b0b8fc746eb08a17ffbab2a16a530
+          Key: 2101479462, Value of type <class 'bytes'>
+                    Hash: cd39a8ddf70abcb86010d557727685c1a1b58012a20e5f551711e9c11aedcd9c
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bool'>
+            Parsing object of type <class 'bool'>
+            Int: True
+          Key: 2125993365, Value of type <class 'bytes'>
+                    Hash: ea2068277edb70114f2053400c6a465f544e6ab72367ad3d066c7f7e2d8485a2
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: 21
+          Key: 2144539170, Value of type <class 'bytes'>
+                    Hash: 4a673b1159f13a0cd197a34d9dc4f4e90983c966cd3a456f284e8302cf02cc7f
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 9f1ba327f2db5c84932bc88a0e97a7f8c3c6b84763a28b1a91769ddf1aaa6d68
+        Key: org.iso.18013.5.1.aamva, Value of type <class 'dict'>
+                    Hash: ba8d807924cb565065022f8f7f09f0660536fcd9babde40e9ce017fcc1a97cdd
+                    Length of thing hashed: 1094
+          Parsing object of type <class 'dict'>
+          'dict' of length 28
+          Key: 31032526, Value of type <class 'bytes'>
+                    Hash: fdd19c601230960ae8157d55db1fdb54dc2c167773ce42415a0fc890e560ef68
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: cd7c45abd36c4cadc8d6b6de27a7e2a817297223ec5fcaadc7ea4c5423303af0
+          Key: 150932419, Value of type <class 'bytes'>
+                    Hash: 17b61b459e61d58584ec09f9c20e06c7ed8ca057c5e03234a0259d34cdcafa6f
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1e
+The hex is: 3ebf11ee8f6c7e07d6986b9228cfee0161ca2be51823e3039edd0a98e957a72f
+          Key: 184079501, Value of type <class 'bytes'>
+                    Hash: 71635ba9f20554cd3d7861a79aa0ba43839483b6da8a22eb61ce9b21086f3884
+                    Length of thing hashed: 34
+            Error parsing data: invalid bignum value -35574
+The hex is: ac2bafc3398af51cb17d279899e35a7e6c8fa98ceed2b133fdf122ce406c5b13
+          Key: 199173625, Value of type <class 'bytes'>
+                    Hash: e883ba36d832463ebfdc985a7da11565e158be8cb6644c669169bbd6588f28d2
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'float'>
+            Parsing object of type <class 'float'>
+          Key: 224897666, Value of type <class 'bytes'>
+                    Hash: 21b1645328fe03a3556c11853c70c670fc0a4e3d1ea00d638ece15fb9ee9c526
+                    Length of thing hashed: 34
+            Error parsing data: premature end of stream (expected to read 22 bytes, got 21 instead)
+The hex is: 98df2bf82f99f03880b076cbeb4607ae7b95a6e4a70c41fd8ff1edfb5d99e0db
+          Key: 254697587, Value of type <class 'bytes'>
+                    Hash: 235521cdfe459b63cb01ee4ad48a11fd7366f827691012e02d52313131278799
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bool'>
+            Parsing object of type <class 'bool'>
+            Int: True
+          Key: 369908822, Value of type <class 'bytes'>
+                    Hash: 3d8a38fb5e6905685967304c1bd0bf472df857950de124bbd2320ecf4b42a40e
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 507287947, Value of type <class 'bytes'>
+                    Hash: 0ab63019801b612b77010dd6bb5ccfb179e2493670a1db4815588e62710d4429
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+            Parsing object of type <class 'CBORSimpleValue'>
+            tuple of length 1
+            Item 0:
+              Parsing object of type <class 'int'>
+              Int: 14
+          Key: 665046459, Value of type <class 'bytes'>
+                    Hash: 558e24837dc2eb48ba77983dc3a906f67adbf3dbd7063ccaa874051434fea60b
+                    Length of thing hashed: 34
+            Error parsing data: invalid bignum value 3
+The hex is: c3038ad60e463e755ecf5fcbdd48cc0caeca6bf9c2462d641857efd9bd8d1312
+          Key: 671431096, Value of type <class 'bytes'>
+                    Hash: 4b51db0c72b79c5eb567ba968477c539949b9da3e14e724095741f77d64d8744
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 6ea7c520dea49a36a11c99833fec9b95999baa096d39303e2983a7db41085fcd
+          Key: 733685676, Value of type <class 'bytes'>
+                    Hash: 8d8a829575811619bf15eb3353462ec6e3769765f39d9099cefbb6b5cf12824b
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: -6
+          Key: 755233795, Value of type <class 'bytes'>
+                    Hash: 1bf82c8f411f90aa68eaeb400df42a024538ed961deabb9d180b994223000df1
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+2fc0047b5f482cb31d5de1df14f2ee530497101b1519cdb8fddd03e0036944a3
+            Parsing object of type <class '_cbor2.CBORTag'>
+            CBORTag: 9
+              Parsing object of type <class 'int'>
+              Int: -18
+          Key: 866396966, Value of type <class 'bytes'>
+                    Hash: eaea7038a36937aa8e8cea06cb0a11dbc6c857e08516cf5b2225bb463ef48bca
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 921556314, Value of type <class 'bytes'>
+                    Hash: 55ad7966d3968da57e9f4178ddedce317ccb0a766936759283a60f4473860614
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 952838723, Value of type <class 'bytes'>
+                    Hash: 2cb8fab47196fb353b8d73e5aa2745fff89c98196134fe6b7f6fc663542bfe31
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+            Parsing object of type <class 'CBORSimpleValue'>
+            tuple of length 1
+            Item 0:
+              Parsing object of type <class 'int'>
+              Int: 6
+          Key: 988160543, Value of type <class 'bytes'>
+                    Hash: 6d27a219cc555942074edef03e795aec084758541fc2cd925a751042cd291b1c
+                    Length of thing hashed: 34
+            Error parsing data: Undefined Reserved major type 7 subtype 0x1c
+The hex is: fc3b0e5cf2f535a3792272c3064ed1285ed3e8da047535da9bfec22b34dfd91e
+          Key: 1292618449, Value of type <class 'bytes'>
+                    Hash: d0e4bbc10bf8e96a823fd4a1ca9ec5608a5c0710d6683e6caf664b1b9f0b1f94
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: 5
+          Key: 1293690301, Value of type <class 'bytes'>
+                    Hash: 9f09844298a63336d79119058c73c19d23ce5257e4d6a806e0ad214d563a51aa
+                    Length of thing hashed: 34
+            Error parsing data: Undefined Reserved major type 7 subtype 0x1e
+The hex is: 91fec0a859cb2952c20c6e00c3db4eb2337bb9118338a94e7a51db7564e076a6
+          Key: 1320952268, Value of type <class 'bytes'>
+                    Hash: dda2a087233634c9e3a9a9fad6f580979aad86d335e96099b322ec83a29facf4
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 6fc8bed01b8d4d5f9459d4914bd242eb577032328c9e7e2456e12216d3d043d9
+          Key: 1400777185, Value of type <class 'bytes'>
+                    Hash: 0f2d08880eaaa30f6b5c265a17f886813f5c43df03d9be6b95349ec5d6697ed5
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+9866318fba3651802bce32a5fa0cd078a19af911b74aaeae2553c789823b050c
+            Parsing object of type <class '_cbor2.CBORTag'>
+            CBORTag: 11
+              Parsing object of type <class 'int'>
+              Int: -4
+          Key: 1432459200, Value of type <class 'bytes'>
+                    Hash: 9a783f6bd6d8a6133ae3127cbf169675dd9ec3dda060b0b1a48a3a5d02ec9243
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'bytes'>
+            Parsing object of type <class 'bytes'>
+          Key: 1562222195, Value of type <class 'bytes'>
+                    Hash: d4a0e05da8ef0a4c97d89c333e2b69742508db780604d1be15436257624b1500
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: b04c5cd60ab5b3c20f53c0a684b59df00ba9c1919cf08ebeebafeee8a618b2f8
+          Key: 1882503165, Value of type <class 'bytes'>
+                    Hash: cf6c56b4a882803a5c5c8b6a9414bd53fd3afb47801fd567122212da8c9f32de
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 88f14742b450a82c9487719e37a73004d79b1eadb8353a4d2c0df225005c0ad9
+          Key: 1899089312, Value of type <class 'bytes'>
+                    Hash: c5957f77f3c8186a017012f848a4eb4d2b26249e34d8ebe9c6022df46f0c8f7f
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'int'>
+            Parsing object of type <class 'int'>
+            Int: 22
+          Key: 1930316375, Value of type <class 'bytes'>
+                    Hash: f8aa52bb959e196c35e1a059e1be56633354631e1ce3946c67e3c6b5ebe18abc
+                    Length of thing hashed: 34
+            Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+            Parsing object of type <class 'CBORSimpleValue'>
+            tuple of length 1
+            Item 0:
+              Parsing object of type <class 'int'>
+              Int: 1
+          Key: 1995774405, Value of type <class 'bytes'>
+                    Hash: d9d71b6ae1ecde7c90428bd57ebc9a9647aa38de8728f78c1a4092d1c43f2e77
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: 8d0a5c9d6ee3890674cc6ff87b4e9a01afc6eb5e1a258f41a8eda55e146038ff
+          Key: 2044050524, Value of type <class 'bytes'>
+                    Hash: 3219feefe34ea6bd0bb667f509af9e79d551840cc2b170169a9b34b32039f2ca
+                    Length of thing hashed: 34
+            Error parsing data: error decoding unicode string
+The hex is: 64339d793bf782e97dae92be097b51e8e1a6e8ca7f2d5ff5b99a3f6eb9565d35
+          Key: 2138944292, Value of type <class 'bytes'>
+                    Hash: 8b7bd8466feaacf37a5c7fca9664c5088b5cf8322fd0244e54b0d911ea81198c
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1e
+The hex is: 9e75709d2b0b5b0f24c9ee6a6f42aa60143b3c0a3fc549149c696e72487d067b
+      Key: deviceKeyInfo, Value of type <class 'dict'>
+                    Hash: 69dc2e5256d8034d770c6a30792b934d82d7e15cafee098867fe7cc4cf7ea0ae
+                    Length of thing hashed: 86
+        Parsing object of type <class 'dict'>
+        'dict' of length 1
+        Key: deviceKey, Value of type <class 'dict'>
+                    Hash: a88c63fd5e6e4bf195cca981ec3b3ae4abbf81b9d9f55bc58a5ebb1d0618d6cd
+                    Length of thing hashed: 75
+          Parsing object of type <class 'dict'>
+          'dict' of length 4
+          Key: 1, Value of type <class 'int'>
+                    Hash: dbc1b4c900ffe48d575b5da5c638040125f65db0fe3e24494b76ea986457d986
+                    Length of thing hashed: 1
+            Parsing object of type <class 'int'>
+            Int: 2
+          Key: -1, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+            Parsing object of type <class 'int'>
+            Int: 1
+          Key: -2, Value of type <class 'bytes'>
+                    Hash: 5a8a17817fc919a38f52e65e7fd64024f3f065289de5ad00a73e9bca7cbc1726
+                    Length of thing hashed: 34
+            Error parsing data: premature end of stream (expected to read 64604 bytes, got 29 instead)
+The hex is: 59fc5c8006ac52a39479c1aabacbbd1d56fcb98feeaa182334c45b3a7609029e
+          Key: -3, Value of type <class 'bytes'>
+                    Hash: 530c865d20026a40753a52cb5aa8b3a5b7fe17e76075012a1c9f6e5c454c7909
+                    Length of thing hashed: 34
+            Error parsing data: unknown unsigned integer subtype 0x1f
+The hex is: 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d
+      Key: docType, Value of type <class 'str'>
+                    Hash: 09a478545b4fef8ca3d7bd303261972e3ece0d2aa9f935c1e568f8c89a4575c5
+                    Length of thing hashed: 22
+        Parsing object of type <class 'str'>
+        String: org.iso.18013.5.1.mDL
+      Key: validityInfo, Value of type <class 'dict'>
+                    Hash: cd4e12c0e419a716f0cc4ecc4358650456151c6c1da6396c76912f0fd631c272
+                    Length of thing hashed: 95
+        Parsing object of type <class 'dict'>
+        'dict' of length 3
+        Key: signed, Value of type <class 'datetime.datetime'>
+                    Hash: 47401dfbcbb9f948a3b4d38552da077d1c9c08ab5cea48f3c48a9680da5088b8
+                    Length of thing hashed: 22
+          Parsing object of type <class 'datetime.datetime'>
+          DateTime: 2023-11-07 15:41:06+00:00
+        Key: validFrom, Value of type <class 'datetime.datetime'>
+                    Hash: 47401dfbcbb9f948a3b4d38552da077d1c9c08ab5cea48f3c48a9680da5088b8
+                    Length of thing hashed: 22
+          Parsing object of type <class 'datetime.datetime'>
+          DateTime: 2023-11-07 15:41:06+00:00
+        Key: validUntil, Value of type <class 'datetime.datetime'>
+                    Hash: 47401dfbcbb9f948a3b4d38552da077d1c9c08ab5cea48f3c48a9680da5088b8
+                    Length of thing hashed: 22
+          Parsing object of type <class 'datetime.datetime'>
+          DateTime: 2023-11-07 15:41:06+00:00
+  Item 3:
+    Parsed 64 bytes to object of type <class 'int'>
+    Parsing object of type <class 'int'>
+    Int: 9
+Key: mso, Value of type <class 'dict'>
+                    Hash: a79de9f66750edf903619bd8b882258d583a5353a4b0399d6f7f4fc37653a745
+                    Length of thing hashed: 2870
+  Parsing object of type <class 'dict'>
+  'dict' of length 6
+  Key: version, Value of type <class 'str'>
+                    Hash: 11eba96bc50924193b753d7b631f52b418b2c67d3382cb31c602c192d442def2
+                    Length of thing hashed: 4
+    Parsing object of type <class 'str'>
+    String: 1.0
+  Key: digestAlgorithm, Value of type <class 'str'>
+                    Hash: 5a1d1662b087214660478e75b67f5d1276e4041d8104bfa92286e4c92d81a2ba
+                    Length of thing hashed: 8
+    Parsing object of type <class 'str'>
+    String: SHA-256
+  Key: valueDigests, Value of type <class 'dict'>
+                    Hash: 442c897b69ae44dd25f5756a1090f42a64c6c73a9ace860febdea5406c05d5ea
+                    Length of thing hashed: 2582
+    Parsing object of type <class 'dict'>
+    'dict' of length 2
+    Key: org.iso.18013.5.1, Value of type <class 'dict'>
+                    Hash: baf4af1bdd4109042ee7f488ee5a041b78bc9528499fea40967fad39b1fecee6
+                    Length of thing hashed: 1445
+      Parsing object of type <class 'dict'>
+      'dict' of length 37
+      Key: 1923698, Value of type <class 'bytes'>
+                    Hash: f555eb0383adf440508379226737e1bc2233220a6931e3f6a9af57269da003d7
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: 0
+      Key: 87276176, Value of type <class 'bytes'>
+                    Hash: 1f5b6afa3b6c2d376aef0d070f66c4a505b40580d7cd25add7d00c6de1b06710
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 155627905, Value of type <class 'bytes'>
+                    Hash: 7742c1b270fdbce08534e40ea6898f400cea2ebbe8da17ba420109f9340efbec
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: a897ed9263e505ea97a5015507b4bea079487e6f09c437b30757ec3d52a9e66b
+      Key: 188423167, Value of type <class 'bytes'>
+                    Hash: c58accec15a76e9446116fd14f4e15b0d7e5a563ee436b5bf40371e331762dd1
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 75f7a9c41cbfa75fc440dce69b4394948eae757bcf4159585f5afe6045ca5c13
+      Key: 277714123, Value of type <class 'bytes'>
+                    Hash: a4d1e0cf26805d166590398f0ca80efef08047aeeb46a19f32189ac6eec9d249
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: 3580081624
+      Key: 306975492, Value of type <class 'bytes'>
+                    Hash: db8f25790b08515e7717c15cfd4e2557e7588712cb720e724e88b19592d7abcc
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+        Parsing object of type <class 'CBORSimpleValue'>
+        tuple of length 1
+        Item 0:
+          Parsing object of type <class 'int'>
+          Int: 11
+      Key: 522529204, Value of type <class 'bytes'>
+                    Hash: 165f84c9d8c5e51b29e270f065d06526da3032b561fa6f97e3044ccfd79f9612
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+a1dada8435f1740fb3406d58872af133a026b5aff34051b1452c5cb612645c70
+        Parsing object of type <class '_cbor2.CBORTag'>
+        CBORTag: 14
+          Parsing object of type <class 'int'>
+          Int: 9
+      Key: 549386233, Value of type <class 'bytes'>
+                    Hash: 5aeb905ec438dbf52b9372b415d02d3b118962b0caf48a9883543179b766940f
+                    Length of thing hashed: 34
+        Error parsing data: invalid datetime value: b'\xc8\xbb\x91\xf8u \xadC\xd6'
+The hex is: b82708e722c049c8bb91f87520ad43d64c73883fe6f00ef561abc74ebd94e309
+      Key: 552965293, Value of type <class 'bytes'>
+                    Hash: 79c91e8cf4a79141140809927ad8057be3de2c64f2294b391af7bec2a2ac4bd0
+                    Length of thing hashed: 34
+        Error parsing data: invalid bignum value False
+The hex is: acccc2f4cb34b213878a8ea5a51bd4f9661dd12ace9842675a04bf3a67a7e366
+      Key: 604136720, Value of type <class 'bytes'>
+                    Hash: db0498cfa348a06f21e7e2e7efc96034c7220057ecd9a3c7453183d7daee1fa2
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+e19817d6ea0653e13a14e31f8b89e48ca7e9e9e4f4814d4ad304fc9429067d19
+        Parsing object of type <class '_cbor2.CBORTag'>
+        CBORTag: 20
+          Error parsing data: premature end of stream (expected to read 21 bytes, got 19 instead)
+The hex is: 75c019fba27ce9e45548cdf2e771372a3faa9de1
+      Key: 622008541, Value of type <class 'bytes'>
+                    Hash: 2397ccae370d8ef7138db792ffb9f8893b856dc46cba8227ac57f2e4221648f2
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+        Parsing object of type <class 'CBORSimpleValue'>
+        tuple of length 1
+        Item 0:
+          Parsing object of type <class 'int'>
+          Int: 1
+      Key: 669216167, Value of type <class 'bytes'>
+                    Hash: 63ab567ced5f983d0a7598447d288cac3c2e3969f358ec3c66552c60861a4d9e
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301
+      Key: 670451011, Value of type <class 'bytes'>
+                    Hash: 2e7c1de7d7726ec67e109df3a89ea88f6129aa87b63b2bbacd12a3a9f99e704e
+                    Length of thing hashed: 34
+        Error parsing data: excessive bytestring size 0x8DE6D6BA59CC9988
+The hex is: c45b8de6d6ba59cc998818874824040b8af53f7618775f2aadb1b78f9ba00d81
+      Key: 713326463, Value of type <class 'bytes'>
+                    Hash: 22ccc8191de34de52867d19f09a06d871db8c60e6454482ed45465123055530e
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'float'>
+        Parsing object of type <class 'float'>
+      Key: 935783380, Value of type <class 'bytes'>
+                    Hash: 87ddeda619326c47e8a1b13f14295b9ef5609ccce72922c1e56e9e2cffb8790d
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: 5dbf8d454c71cf26cda0f3dc830ccb8ca721037cf51926cf5211458a4d3c1861
+      Key: 1007109838, Value of type <class 'bytes'>
+                    Hash: ee85378d56b5f7afb5f763b75581ebce15e262258591bc0d22f20fc4363ea4b1
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: -19
+      Key: 1010531607, Value of type <class 'bytes'>
+                    Hash: 00929ff27aa5dff0d0ee78c484669ed4f9e1b2501cbdba00b006c0284f626ccb
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: bd4524877110927dfc584816c0d507ad9c0367988b01c7c7ecd50901a69379d0
+      Key: 1082869776, Value of type <class 'bytes'>
+                    Hash: 63b47f31d963922ba2dd6fc94ab36b6de3c6a2a6a4cdd7fa910a64a5d73c50b4
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1f
+The hex is: bf17d7b70fa32e24d40245a2bc7a387c87459c4f00d8c6df5aaa3b2c26071ed5
+      Key: 1217249582, Value of type <class 'bytes'>
+                    Hash: c443144d2af592d588536a0fb6ed6101c4b3ae3b91b772f626e606b41f6d64c1
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: 95ebd8d744cc864c563ca748e8e203df13e5891368697512f9f3ab3d4ba0dc21
+      Key: 1353949336, Value of type <class 'bytes'>
+                    Hash: 33b7274398c9272af6b3c7fe4b0c051b716e201698db3ed7a9b759c548de074a
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: 22
+      Key: 1409432892, Value of type <class 'bytes'>
+                    Hash: d3aeaa74c2e402295a57d30fc07197fa0f946d9d3a993dfb986eab06a5457d0a
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: a3ebcbcabdbfdb21724ae61205388a061f4f4da0b406fdd58df4fb8f13cb7f2a
+      Key: 1485031251, Value of type <class 'bytes'>
+                    Hash: 7f259b81409e661606f44fe0cf93eb7952ee29119bfda26cc7ffe817bb5527b4
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: d33c57b9a46caf1d9121bec3272156d75953212b902b628ec5b459f5371b9f32
+      Key: 1527892759, Value of type <class 'bytes'>
+                    Hash: 241c13317554388c04cea066624f39c62a7de8eae75d94da741a1127670ca527
+                    Length of thing hashed: 34
+        Error parsing data: invalid bignum value 6759765111566205697
+The hex is: c21b5dcf828ddffb8301965175dfcdeeee9132435338364942ef1b7a9df3d78d
+      Key: 1645309580, Value of type <class 'bytes'>
+                    Hash: ebb216ca6e6c174893aebaa93ae66651a34ed17c359cf87d554f7b52f0c6965d
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: 8c3cc4e5714865c50556cf8b2e3c193a2af737655338ab6ca0641e749c507f44
+      Key: 1695363034, Value of type <class 'bytes'>
+                    Hash: d6369626521a25ceb30deef13f04f06b4edcc7e9eda6c257428b56630d8b5176
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 958ef3030e3aab9ee1176ed5c983eedbbd246bb3478a8c8106443f6dc6f75891
+      Key: 1723317653, Value of type <class 'bytes'>
+                    Hash: d2e37574c5d5f845df1da4ab9b245bf917542283bd3ff4eac5e9a50ac260519f
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 1749557145, Value of type <class 'bytes'>
+                    Hash: 93bf711a564e851b275cc390d30eeb3fc91d72d4aa8a0a758b1cba2a4e138e5d
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: -9
+      Key: 1760766134, Value of type <class 'bytes'>
+                    Hash: 87f2406157fbd8072a0ea169d9ef64649388b26b9405f49c381fb255bd47e1cf
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 1837341636, Value of type <class 'bytes'>
+                    Hash: 0fa5d33984ab161d8f48569e47299f2f0ba87adbca8224d63eb37f99a2f8e92f
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 6f6e673c3bd24e80590950dd39afa5203a8348debe30e1952ae9b7477c2c609d
+      Key: 1848090974, Value of type <class 'bytes'>
+                    Hash: fc7dc044bb7cd260503054b068c3f850138eae7324f2f40883206048941d387a
+                    Length of thing hashed: 34
+        Error parsing data: premature end of stream (expected to read 65536 bytes, got 27 instead)
+The hex is: 7aa56106289b8bc52de6f0584a9f2579a4152d85c00f560394de71e6a1f388f7
+      Key: 1960236129, Value of type <class 'bytes'>
+                    Hash: 003f699ddf7629075a61ddb240715bfcaa2fe5f771c95860ba8a88f8c9935058
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: -10
+      Key: 1966654058, Value of type <class 'bytes'>
+                    Hash: 195f6d6dd6cb404c1d043fec01b92abeb1448a497b3083362e8d2ecbbbda30bb
+                    Length of thing hashed: 34
+        Error parsing data: premature end of stream (expected to read 32408 bytes, got 27 instead)
+The hex is: 9116797e98fe38f70c2136b58270dd0e1dbc0761e7f647ed2b463d7a767de054
+      Key: 1974510984, Value of type <class 'bytes'>
+                    Hash: 9da23890d5dabfb892ff03d8cd9087513f909629c6cde6028be9446559f65a63
+                    Length of thing hashed: 34
+        Error parsing data: Undefined Reserved major type 7 subtype 0x1d
+The hex is: acfd93cd86dba89c551d044a63c43c991bc5f68eadbcad811dc70fd13d50d6f9
+      Key: 2054379700, Value of type <class 'bytes'>
+                    Hash: 34599a8a20bb908a4ec0e88a42228ba9bf3738aaba39fe67f7b2a14cdb5e67bf
+                    Length of thing hashed: 34
+        Error parsing data: premature end of stream (expected to read 180 bytes, got 30 instead)
+The hex is: 78b48323ced9d4b72a7ce91eddded60f384b0b8fc746eb08a17ffbab2a16a530
+      Key: 2101479462, Value of type <class 'bytes'>
+                    Hash: cd39a8ddf70abcb86010d557727685c1a1b58012a20e5f551711e9c11aedcd9c
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bool'>
+        Parsing object of type <class 'bool'>
+        Int: True
+      Key: 2125993365, Value of type <class 'bytes'>
+                    Hash: ea2068277edb70114f2053400c6a465f544e6ab72367ad3d066c7f7e2d8485a2
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: 21
+      Key: 2144539170, Value of type <class 'bytes'>
+                    Hash: 4a673b1159f13a0cd197a34d9dc4f4e90983c966cd3a456f284e8302cf02cc7f
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 9f1ba327f2db5c84932bc88a0e97a7f8c3c6b84763a28b1a91769ddf1aaa6d68
+    Key: org.iso.18013.5.1.aamva, Value of type <class 'dict'>
+                    Hash: ba8d807924cb565065022f8f7f09f0660536fcd9babde40e9ce017fcc1a97cdd
+                    Length of thing hashed: 1094
+      Parsing object of type <class 'dict'>
+      'dict' of length 28
+      Key: 31032526, Value of type <class 'bytes'>
+                    Hash: fdd19c601230960ae8157d55db1fdb54dc2c167773ce42415a0fc890e560ef68
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: cd7c45abd36c4cadc8d6b6de27a7e2a817297223ec5fcaadc7ea4c5423303af0
+      Key: 150932419, Value of type <class 'bytes'>
+                    Hash: 17b61b459e61d58584ec09f9c20e06c7ed8ca057c5e03234a0259d34cdcafa6f
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1e
+The hex is: 3ebf11ee8f6c7e07d6986b9228cfee0161ca2be51823e3039edd0a98e957a72f
+      Key: 184079501, Value of type <class 'bytes'>
+                    Hash: 71635ba9f20554cd3d7861a79aa0ba43839483b6da8a22eb61ce9b21086f3884
+                    Length of thing hashed: 34
+        Error parsing data: invalid bignum value -35574
+The hex is: ac2bafc3398af51cb17d279899e35a7e6c8fa98ceed2b133fdf122ce406c5b13
+      Key: 199173625, Value of type <class 'bytes'>
+                    Hash: e883ba36d832463ebfdc985a7da11565e158be8cb6644c669169bbd6588f28d2
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'float'>
+        Parsing object of type <class 'float'>
+      Key: 224897666, Value of type <class 'bytes'>
+                    Hash: 21b1645328fe03a3556c11853c70c670fc0a4e3d1ea00d638ece15fb9ee9c526
+                    Length of thing hashed: 34
+        Error parsing data: premature end of stream (expected to read 22 bytes, got 21 instead)
+The hex is: 98df2bf82f99f03880b076cbeb4607ae7b95a6e4a70c41fd8ff1edfb5d99e0db
+      Key: 254697587, Value of type <class 'bytes'>
+                    Hash: 235521cdfe459b63cb01ee4ad48a11fd7366f827691012e02d52313131278799
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bool'>
+        Parsing object of type <class 'bool'>
+        Int: True
+      Key: 369908822, Value of type <class 'bytes'>
+                    Hash: 3d8a38fb5e6905685967304c1bd0bf472df857950de124bbd2320ecf4b42a40e
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 507287947, Value of type <class 'bytes'>
+                    Hash: 0ab63019801b612b77010dd6bb5ccfb179e2493670a1db4815588e62710d4429
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+        Parsing object of type <class 'CBORSimpleValue'>
+        tuple of length 1
+        Item 0:
+          Parsing object of type <class 'int'>
+          Int: 14
+      Key: 665046459, Value of type <class 'bytes'>
+                    Hash: 558e24837dc2eb48ba77983dc3a906f67adbf3dbd7063ccaa874051434fea60b
+                    Length of thing hashed: 34
+        Error parsing data: invalid bignum value 3
+The hex is: c3038ad60e463e755ecf5fcbdd48cc0caeca6bf9c2462d641857efd9bd8d1312
+      Key: 671431096, Value of type <class 'bytes'>
+                    Hash: 4b51db0c72b79c5eb567ba968477c539949b9da3e14e724095741f77d64d8744
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 6ea7c520dea49a36a11c99833fec9b95999baa096d39303e2983a7db41085fcd
+      Key: 733685676, Value of type <class 'bytes'>
+                    Hash: 8d8a829575811619bf15eb3353462ec6e3769765f39d9099cefbb6b5cf12824b
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: -6
+      Key: 755233795, Value of type <class 'bytes'>
+                    Hash: 1bf82c8f411f90aa68eaeb400df42a024538ed961deabb9d180b994223000df1
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+2fc0047b5f482cb31d5de1df14f2ee530497101b1519cdb8fddd03e0036944a3
+        Parsing object of type <class '_cbor2.CBORTag'>
+        CBORTag: 9
+          Parsing object of type <class 'int'>
+          Int: -18
+      Key: 866396966, Value of type <class 'bytes'>
+                    Hash: eaea7038a36937aa8e8cea06cb0a11dbc6c857e08516cf5b2225bb463ef48bca
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 921556314, Value of type <class 'bytes'>
+                    Hash: 55ad7966d3968da57e9f4178ddedce317ccb0a766936759283a60f4473860614
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 952838723, Value of type <class 'bytes'>
+                    Hash: 2cb8fab47196fb353b8d73e5aa2745fff89c98196134fe6b7f6fc663542bfe31
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+        Parsing object of type <class 'CBORSimpleValue'>
+        tuple of length 1
+        Item 0:
+          Parsing object of type <class 'int'>
+          Int: 6
+      Key: 988160543, Value of type <class 'bytes'>
+                    Hash: 6d27a219cc555942074edef03e795aec084758541fc2cd925a751042cd291b1c
+                    Length of thing hashed: 34
+        Error parsing data: Undefined Reserved major type 7 subtype 0x1c
+The hex is: fc3b0e5cf2f535a3792272c3064ed1285ed3e8da047535da9bfec22b34dfd91e
+      Key: 1292618449, Value of type <class 'bytes'>
+                    Hash: d0e4bbc10bf8e96a823fd4a1ca9ec5608a5c0710d6683e6caf664b1b9f0b1f94
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: 5
+      Key: 1293690301, Value of type <class 'bytes'>
+                    Hash: 9f09844298a63336d79119058c73c19d23ce5257e4d6a806e0ad214d563a51aa
+                    Length of thing hashed: 34
+        Error parsing data: Undefined Reserved major type 7 subtype 0x1e
+The hex is: 91fec0a859cb2952c20c6e00c3db4eb2337bb9118338a94e7a51db7564e076a6
+      Key: 1320952268, Value of type <class 'bytes'>
+                    Hash: dda2a087233634c9e3a9a9fad6f580979aad86d335e96099b322ec83a29facf4
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 6fc8bed01b8d4d5f9459d4914bd242eb577032328c9e7e2456e12216d3d043d9
+      Key: 1400777185, Value of type <class 'bytes'>
+                    Hash: 0f2d08880eaaa30f6b5c265a17f886813f5c43df03d9be6b95349ec5d6697ed5
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class '_cbor2.CBORTag'>
+9866318fba3651802bce32a5fa0cd078a19af911b74aaeae2553c789823b050c
+        Parsing object of type <class '_cbor2.CBORTag'>
+        CBORTag: 11
+          Parsing object of type <class 'int'>
+          Int: -4
+      Key: 1432459200, Value of type <class 'bytes'>
+                    Hash: 9a783f6bd6d8a6133ae3127cbf169675dd9ec3dda060b0b1a48a3a5d02ec9243
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'bytes'>
+        Parsing object of type <class 'bytes'>
+      Key: 1562222195, Value of type <class 'bytes'>
+                    Hash: d4a0e05da8ef0a4c97d89c333e2b69742508db780604d1be15436257624b1500
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: b04c5cd60ab5b3c20f53c0a684b59df00ba9c1919cf08ebeebafeee8a618b2f8
+      Key: 1882503165, Value of type <class 'bytes'>
+                    Hash: cf6c56b4a882803a5c5c8b6a9414bd53fd3afb47801fd567122212da8c9f32de
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 88f14742b450a82c9487719e37a73004d79b1eadb8353a4d2c0df225005c0ad9
+      Key: 1899089312, Value of type <class 'bytes'>
+                    Hash: c5957f77f3c8186a017012f848a4eb4d2b26249e34d8ebe9c6022df46f0c8f7f
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'int'>
+        Parsing object of type <class 'int'>
+        Int: 22
+      Key: 1930316375, Value of type <class 'bytes'>
+                    Hash: f8aa52bb959e196c35e1a059e1be56633354631e1ce3946c67e3c6b5ebe18abc
+                    Length of thing hashed: 34
+        Parsed 32 bytes to object of type <class 'CBORSimpleValue'>
+        Parsing object of type <class 'CBORSimpleValue'>
+        tuple of length 1
+        Item 0:
+          Parsing object of type <class 'int'>
+          Int: 1
+      Key: 1995774405, Value of type <class 'bytes'>
+                    Hash: d9d71b6ae1ecde7c90428bd57ebc9a9647aa38de8728f78c1a4092d1c43f2e77
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: 8d0a5c9d6ee3890674cc6ff87b4e9a01afc6eb5e1a258f41a8eda55e146038ff
+      Key: 2044050524, Value of type <class 'bytes'>
+                    Hash: 3219feefe34ea6bd0bb667f509af9e79d551840cc2b170169a9b34b32039f2ca
+                    Length of thing hashed: 34
+        Error parsing data: error decoding unicode string
+The hex is: 64339d793bf782e97dae92be097b51e8e1a6e8ca7f2d5ff5b99a3f6eb9565d35
+      Key: 2138944292, Value of type <class 'bytes'>
+                    Hash: 8b7bd8466feaacf37a5c7fca9664c5088b5cf8322fd0244e54b0d911ea81198c
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1e
+The hex is: 9e75709d2b0b5b0f24c9ee6a6f42aa60143b3c0a3fc549149c696e72487d067b
+  Key: deviceKeyInfo, Value of type <class 'dict'>
+                    Hash: 69dc2e5256d8034d770c6a30792b934d82d7e15cafee098867fe7cc4cf7ea0ae
+                    Length of thing hashed: 86
+    Parsing object of type <class 'dict'>
+    'dict' of length 1
+    Key: deviceKey, Value of type <class 'dict'>
+                    Hash: a88c63fd5e6e4bf195cca981ec3b3ae4abbf81b9d9f55bc58a5ebb1d0618d6cd
+                    Length of thing hashed: 75
+      Parsing object of type <class 'dict'>
+      'dict' of length 4
+      Key: 1, Value of type <class 'int'>
+                    Hash: dbc1b4c900ffe48d575b5da5c638040125f65db0fe3e24494b76ea986457d986
+                    Length of thing hashed: 1
+        Parsing object of type <class 'int'>
+        Int: 2
+      Key: -1, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+        Parsing object of type <class 'int'>
+        Int: 1
+      Key: -2, Value of type <class 'bytes'>
+                    Hash: 5a8a17817fc919a38f52e65e7fd64024f3f065289de5ad00a73e9bca7cbc1726
+                    Length of thing hashed: 34
+        Error parsing data: premature end of stream (expected to read 64604 bytes, got 29 instead)
+The hex is: 59fc5c8006ac52a39479c1aabacbbd1d56fcb98feeaa182334c45b3a7609029e
+      Key: -3, Value of type <class 'bytes'>
+                    Hash: 530c865d20026a40753a52cb5aa8b3a5b7fe17e76075012a1c9f6e5c454c7909
+                    Length of thing hashed: 34
+        Error parsing data: unknown unsigned integer subtype 0x1f
+The hex is: 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d
+  Key: docType, Value of type <class 'str'>
+                    Hash: 09a478545b4fef8ca3d7bd303261972e3ece0d2aa9f935c1e568f8c89a4575c5
+                    Length of thing hashed: 22
+    Parsing object of type <class 'str'>
+    String: org.iso.18013.5.1.mDL
+  Key: validityInfo, Value of type <class 'dict'>
+                    Hash: cd4e12c0e419a716f0cc4ecc4358650456151c6c1da6396c76912f0fd631c272
+                    Length of thing hashed: 95
+    Parsing object of type <class 'dict'>
+    'dict' of length 3
+    Key: signed, Value of type <class 'datetime.datetime'>
+                    Hash: 47401dfbcbb9f948a3b4d38552da077d1c9c08ab5cea48f3c48a9680da5088b8
+                    Length of thing hashed: 22
+      Parsing object of type <class 'datetime.datetime'>
+      DateTime: 2023-11-07 15:41:06+00:00
+    Key: validFrom, Value of type <class 'datetime.datetime'>
+                    Hash: 47401dfbcbb9f948a3b4d38552da077d1c9c08ab5cea48f3c48a9680da5088b8
+                    Length of thing hashed: 22
+      Parsing object of type <class 'datetime.datetime'>
+      DateTime: 2023-11-07 15:41:06+00:00
+    Key: validUntil, Value of type <class 'datetime.datetime'>
+                    Hash: 47401dfbcbb9f948a3b4d38552da077d1c9c08ab5cea48f3c48a9680da5088b8
+                    Length of thing hashed: 22
+      Parsing object of type <class 'datetime.datetime'>
+      DateTime: 2023-11-07 15:41:06+00:00
+Key: namespaces, Value of type <class 'dict'>
+                    Hash: 826596a387f767b2a61a99cdb1d8f5d2e5797e934be40cd15f5d854ccee84f26
+                    Length of thing hashed: 111146
+  Parsing object of type <class 'dict'>
+  'dict' of length 2
+  Key: org.iso.18013.5.1, Value of type <class 'dict'>
+                    Hash: a77f082fcf5a1fb37ff11c7da95961f12733c227d089b5dc8979e07d1091b7a5
+                    Length of thing hashed: 108668
+    Parsing object of type <class 'dict'>
+    'dict' of length 30
+    Key: administrative_number, Value of type <class '_cbor2.CBORTag'>
+                    Hash: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301
+                    Length of thing hashed: 103
+      CBORTag 24
+        Parsed 99 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: f5ce3cca3224da98c46cf3dd433e7d797eb6e79a52816ff9181b841258893819
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 669216167
+        Key: random, Value of type <class 'bytes'>
+                    Hash: eb92002af53bd575cbb1007912fad49b43a9216c833f493e92b088d7a58881d8
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: 5
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: a6978e32c630ad533d025fa679dc2889c045e2506a77bdac3e65dc41deb5bca3
+                    Length of thing hashed: 22
+          Parsing object of type <class 'str'>
+          String: administrative_number
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: b475bbc29cbc786cf639cff9088dc68a6e981292663fb2661bdb109772707335
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: ABC123
+    Key: age_birth_year, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 1ad563b5d8f36a7c893cc2041f4cfdab1035fc8c919185d1f56e4c1b62f60681
+                    Length of thing hashed: 92
+      CBORTag 24
+        Parsed 88 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: f614c492a343607d75238c9df2013162dd94497b8eba79d4a4097259da9f97f0
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 277714123
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 10081f0872210db4f14d336b44371763d7d1e40c6fd0d9df4e784c9647abb65d
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -8
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 40b1fa0a7993765402cb5b5a8565d08ff13891ea95e2561898a83fc74f5beda1
+                    Length of thing hashed: 15
+          Parsing object of type <class 'str'>
+          String: age_birth_year
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: ff3f422c06c0bdc356915c4c898d95e9ea8578c56d7f239154e0d97639d715b8
+                    Length of thing hashed: 3
+          Parsing object of type <class 'int'>
+          Int: 1980
+    Key: age_in_years, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 75f7a9c41cbfa75fc440dce69b4394948eae757bcf4159585f5afe6045ca5c13
+                    Length of thing hashed: 89
+      CBORTag 24
+        Parsed 85 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: e1892428b62b67483ac23c365aa9cef49c983b8207fa3b2afdce1a172446affe
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 188423167
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 934c87fc5a0e842b3e45922f7029a6ee3336baf289045cde0ebe5fe3f7a4d25a
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class '_cbor2.CBORTag'>
+07099ab3321fb6827a985af19701071144aaa48ba39a3069e5de2caae6a26497
+          Parsing object of type <class '_cbor2.CBORTag'>
+          CBORTag: 18
+            Parsing object of type <class 'int'>
+            Int: 2
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 967063e606ece77272bce5b21f0a0283029e6f92edb98352a2a6746ecfade980
+                    Length of thing hashed: 13
+          Parsing object of type <class 'str'>
+          String: age_in_years
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 3f1586bff639060eeb5bd6d425466791ead9d442c5352901c094f326d79be59c
+                    Length of thing hashed: 2
+          Parsing object of type <class 'int'>
+          Int: 43
+    Key: age_over_18, Value of type <class '_cbor2.CBORTag'>
+                    Hash: bf17d7b70fa32e24d40245a2bc7a387c87459c4f00d8c6df5aaa3b2c26071ed5
+                    Length of thing hashed: 87
+      CBORTag 24
+        Parsed 83 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: ad68aee045b07703a4f9098dc6bafab3e38d47adeeb78d435357fda465cab1ab
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1082869776
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 7e7a2f47565583327d49fa4bcf171167904b7e03af7204e58cef66aa90a2e550
+                    Length of thing hashed: 17
+          Error parsing data: error decoding unicode string
+The hex is: a32a17a66a1fa97e1523c53e9d4e5619
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: a478641bd2c9148586bae07de57f78bc752f1e8813d98866e0b29bf258025bda
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: age_over_18
+        Key: elementValue, Value of type <class 'bool'>
+                    Hash: 27abdeddfe8503496adeb623466caa47da5f63abd2bc6fa19f6cfcb73ecfed70
+                    Length of thing hashed: 1
+          Parsing object of type <class 'bool'>
+          Int: True
+    Key: age_over_21, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 166a2ab34ac00c08de0186df1300866d910c2685ce137889f783eea626e898da
+                    Length of thing hashed: 87
+      CBORTag 24
+        Parsed 83 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 7fc864af4ceeae885062cf16ff32503b53aa5cb4d52ed7fc13c819aca5938be9
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1353949336
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 66b5044288ee63d3eadf00477a944df48cc33f267981a65a5ae1c86449106cf0
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -17
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: fc6f031e43d2c93ff3d5af2b8cc26d67ae64f860bb84334e418ac50ca117ef3a
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: age_over_21
+        Key: elementValue, Value of type <class 'bool'>
+                    Hash: 27abdeddfe8503496adeb623466caa47da5f63abd2bc6fa19f6cfcb73ecfed70
+                    Length of thing hashed: 1
+          Parsing object of type <class 'bool'>
+          Int: True
+    Key: birth_date, Value of type <class '_cbor2.CBORTag'>
+                    Hash: b82708e722c049c8bb91f87520ad43d64c73883fe6f00ef561abc74ebd94e309
+                    Length of thing hashed: 99
+      CBORTag 24
+        Parsed 95 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 9d538b41af841c1bf11e70b998e5754d0829cdba4494f20fb20c97dc95564d3e
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 549386233
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 3a2082ddcdcc04ee0c345951e61c33e262f5c02baa5be8ef732b81ed3990ba4b
+                    Length of thing hashed: 17
+          Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: 3dccc3099744af363246d34cf988d538
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: ea8156f39a7c8e05c1d1b85c67c762e6b026a3d3b01a13944a59c8bcfb5ec54b
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: birth_date
+        Key: elementValue, Value of type <class 'datetime.date'>
+                    Hash: e618b4e307d94198a170a797389d09d3ebfae1ce8477972da9a410c65807e1a0
+                    Length of thing hashed: 14
+          Parsing object of type <class 'datetime.date'>
+    Key: birth_place, Value of type <class '_cbor2.CBORTag'>
+                    Hash: d45475c019fba27ce9e45548cdf2e771372a3faa9de126a4b43c2a0e5d64808f
+                    Length of thing hashed: 93
+      CBORTag 24
+        Parsed 89 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 5735e2cea3a0e2130522b7845398e6dae8b1d044dac03efd80405e57fdb06f1d
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 604136720
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 96388456ee2c7b3358386ec0a9feae73abd16d562452e39f77b5f47f671bef55
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'bool'>
+          Parsing object of type <class 'bool'>
+          Int: False
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 721d527f88cfb55515acbbe3f756e5ae9752b24177a967fe0895ceeaea356f80
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: birth_place
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 0c0746a460c4692ccd9816b039ec5c5341e9123aefc326257c60f2e7e815f987
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: Canada
+    Key: document_number, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 1589afed225dfe448c2800f65e11e01fb65c9e0ed4033ee4b97866e2fd6bea2c
+                    Length of thing hashed: 101
+      CBORTag 24
+        Parsed 97 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: a40a98194548c36bfcbf74419687810fee88e29f3201d2a49fc82b7af1e241f4
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 2125993365
+        Key: random, Value of type <class 'bytes'>
+                    Hash: e209430be10cb812b7945033bc5d2b2b1d3aee8f172bab64d906cae6dcb19c96
+                    Length of thing hashed: 17
+          Error parsing data: error decoding unicode string
+The hex is: 9fcb84401082ccecb9a85b6275ea2832
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 781aefe68b5c564503b3b77667b6a242320b68274f8a30ec43d939f65f2d7c12
+                    Length of thing hashed: 16
+          Parsing object of type <class 'str'>
+          String: document_number
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 069c2dff9488b0d2ef240ade47ab0a5676c9c390ac8dfcee4025e7f292d26050
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: DL12345678
+    Key: driving_privileges, Value of type <class '_cbor2.CBORTag'>
+                    Hash: bd4524877110927dfc584816c0d507ad9c0367988b01c7c7ecd50901a69379d0
+                    Length of thing hashed: 246
+      CBORTag 24
+        Parsed 242 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 54f6985ff23c0dca6acaa9b24efc06df0060d183dbce10d2b1e4bd29935e171b
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1010531607
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 6b63ba9be2f235f520df42867822c1ba3dec83ce3d96cd12c0e865a4aa3d76f1
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -21
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 3ba5321930a4f27d8e16c9867f67690c02c062eeb44d500171765ffea4a9bf1e
+                    Length of thing hashed: 19
+          Parsing object of type <class 'str'>
+          String: driving_privileges
+        Key: elementValue, Value of type <class 'list'>
+                    Hash: 377d4e862fc8be9ee7ad6d0f42ab9aa170566f2b6a1a4c6f06e37141f130b25d
+                    Length of thing hashed: 153
+          Parsing object of type <class 'list'>
+          list of length 2
+          Item 0:
+            Parsing object of type <class 'dict'>
+            'dict' of length 3
+            Key: issue_date, Value of type <class 'datetime.date'>
+                    Hash: 6927cc9324ea67f71d58f9a0116dac7e10734d0805a234ef52669f2a170dc35a
+                    Length of thing hashed: 14
+              Parsing object of type <class 'datetime.date'>
+            Key: expiry_date, Value of type <class 'datetime.date'>
+                    Hash: 9c626c361146ee668824d0ffd1c51fb9d1066454e43c80041121e268b0abe05d
+                    Length of thing hashed: 14
+              Parsing object of type <class 'datetime.date'>
+            Key: vehicle_category_code, Value of type <class 'str'>
+                    Hash: af1c08098cf119bb4981729721714a4b9948dbcb6b5fff21cb0f45f06ad1f7ea
+                    Length of thing hashed: 2
+              Parsing object of type <class 'str'>
+              String: A
+          Item 1:
+            Parsing object of type <class 'dict'>
+            'dict' of length 3
+            Key: issue_date, Value of type <class 'datetime.date'>
+                    Hash: 6927cc9324ea67f71d58f9a0116dac7e10734d0805a234ef52669f2a170dc35a
+                    Length of thing hashed: 14
+              Parsing object of type <class 'datetime.date'>
+            Key: expiry_date, Value of type <class 'datetime.date'>
+                    Hash: 9c626c361146ee668824d0ffd1c51fb9d1066454e43c80041121e268b0abe05d
+                    Length of thing hashed: 14
+              Parsing object of type <class 'datetime.date'>
+            Key: vehicle_category_code, Value of type <class 'str'>
+                    Hash: 042ac5b8da4052545d4b28fe223994711495be3cdeeb8a1f3e2a9d7d8bbae87c
+                    Length of thing hashed: 2
+              Parsing object of type <class 'str'>
+              String: B
+    Key: expiry_date, Value of type <class '_cbor2.CBORTag'>
+                    Hash: ebced8530d2e04467eb002ebdc34b4a8ed23ba7dc928cab05a5dc6bb64339b75
+                    Length of thing hashed: 100
+      CBORTag 24
+        Parsed 96 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 6786e7add2a0f78c6e097c840bd3066b93bbb559859525465418ffce84440672
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 306975492
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 4b19bff36b2c0be9301321e7274c96ae759a41fdc276823433e66f684067f836
+                    Length of thing hashed: 17
+          Error parsing data: excessive array size 0xAA2406A80C6FCB99
+The hex is: 9baa2406a80c6fcb99bfe61cd27ae340
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 87d3afeb99efc8fe2b0751d403a6d5b0eec80fbc8858d136f36f7c2ab41b727a
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: expiry_date
+        Key: elementValue, Value of type <class 'datetime.date'>
+                    Hash: 9c626c361146ee668824d0ffd1c51fb9d1066454e43c80041121e268b0abe05d
+                    Length of thing hashed: 14
+          Parsing object of type <class 'datetime.date'>
+    Key: eye_colour, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 9f1ba327f2db5c84932bc88a0e97a7f8c3c6b84763a28b1a91769ddf1aaa6d68
+                    Length of thing hashed: 91
+      CBORTag 24
+        Parsed 87 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: e45b8675cc8a14c3921348272db91e22426ef9fe7e58b116a528a907ee6d74c0
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 2144539170
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 99e587cccb90b8914b08f24fa40aa58b789c6fe5529cc99095787826dea243b6
+                    Length of thing hashed: 17
+          Error parsing data: error decoding unicode string
+The hex is: 9430c66555eac407c0c67d92b154db7e
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 5c7f6f41dbe86013c615a0ee086c5e40e7195330aa92a796f0ea7bcf1ecb2aae
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: eye_colour
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: be6cf4438a02cf7bf6ce85da43b578da765040f46dcf5d9e2a3ca635ddfc7533
+                    Length of thing hashed: 6
+          Parsing object of type <class 'str'>
+          String: hazel
+    Key: family_name, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 7aa56106289b8bc52de6f0584a9f2579a4152d85c00f560394de71e6a1f388f7
+                    Length of thing hashed: 92
+      CBORTag 24
+        Parsed 88 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 86dd270e1e10d56d368e0e33ece034c688cca2d31d9a0284268fe2172465e67c
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1848090974
+        Key: random, Value of type <class 'bytes'>
+                    Hash: cdbade17f7237eb381dab8dcd244bb454d5262d564e1c77a2cb636b58ed4588b
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: 11
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 8f856d7a1a6af0e2aa17e9d7146247a942dfea45c4ce3df10c50f740aeb90a3b
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: family_name
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 710e284e0160103d7d8b209eb7068395dadfabc2ee031444db46459a2a5c7a8d
+                    Length of thing hashed: 6
+          Parsing object of type <class 'str'>
+          String: Smith
+    Key: given_name, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 6f6e673c3bd24e80590950dd39afa5203a8348debe30e1952ae9b7477c2c609d
+                    Length of thing hashed: 91
+      CBORTag 24
+        Parsed 87 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 4b26d791ea607e9bf6ecd071b5e76a6abac7b1609b0f145d5b5e68e464e4f718
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1837341636
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 8c965f186a7888eda6e4936c23ad80a6bcc1444bfb212250a18c52dc730aa5a2
+                    Length of thing hashed: 17
+          Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: b7a8ed5cde3748b25a5cce531cfff526
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: e4fbe46ba81fcbcb1d6e62c13f43bf7cc03de86328065ecb685ecb6f6b0b4276
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: given_name
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 13941b487c1ddebce827b6ec3f46d982938acdc7e3b6a140db36062d9519dd2f
+                    Length of thing hashed: 6
+          Parsing object of type <class 'str'>
+          String: Alice
+    Key: hair_colour, Value of type <class '_cbor2.CBORTag'>
+                    Hash: d33c57b9a46caf1d9121bec3272156d75953212b902b628ec5b459f5371b9f32
+                    Length of thing hashed: 90
+      CBORTag 24
+        Parsed 86 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: fd01db04efc724cf54416a2ca59789c7676e9f737091fc5547e9cb5c7c56a134
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1485031251
+        Key: random, Value of type <class 'bytes'>
+                    Hash: e7de7feec827930706a243ed29c3c61ead69be7d870ede00d8f524265600cf78
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 17 bytes, got 15 instead)
+The hex is: 51c630e012290244f0484af6878b5a58
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 8f2c7a48ec85af7e730ee0441f0226c99755f8b366d4da097e2a4287797e5b99
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: hair_colour
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 55d91a3561684b32df5e58a0d91968b93798af4f924bba383e1c98625ec0c834
+                    Length of thing hashed: 4
+          Parsing object of type <class 'str'>
+          String: red
+    Key: height, Value of type <class '_cbor2.CBORTag'>
+                    Hash: ce09b31712dda80fd3345235bd18bb8ac2c68454d7d47f0978e29bfcba062998
+                    Length of thing hashed: 83
+      CBORTag 24
+        Parsed 79 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 65d74b0f0665b65808babc8e0868b35cd59a3876a102cbfe9e6722bed6e53b61
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 522529204
+        Key: random, Value of type <class 'bytes'>
+                    Hash: c89706e87ca801e55a3d8249cae0eaf87de290a50640da01ef616aaff294c5c5
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: 0
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 7b866108a0adf339635b0e18c6f5a90f63625a4e4fba401033d83a320d1c52dd
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: height
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 05c7d63e8c835f7947eb5661e863f1df42ee86559169e2217ee8024ac70df3fe
+                    Length of thing hashed: 2
+          Parsing object of type <class 'int'>
+          Int: 170
+    Key: issue_date, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 001725a2b583deabd31741558e463531a239b2e2bd169e08ac1e3ad6acd33f5c
+                    Length of thing hashed: 99
+      CBORTag 24
+        Parsed 95 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: e273fc9c2aa772e827eddfc359b09fa1b49461f98b68f7157423485ff5abf682
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1923698
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 4d3da19b3a22ee6ca0e4e06124a9c323fbeff609ee672ab82124e92ef962d048
+                    Length of thing hashed: 17
+          Error parsing data: non-bytestring found in indefinite length bytestring
+The hex is: 835ff6798cad729e2816a311b49a1379
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: c242cbc92d342f40f3833b90e383fe1c169adfeeaecec46c5c68a4ef0467214e
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: issue_date
+        Key: elementValue, Value of type <class 'datetime.date'>
+                    Hash: 6927cc9324ea67f71d58f9a0116dac7e10734d0805a234ef52669f2a170dc35a
+                    Length of thing hashed: 14
+          Parsing object of type <class 'datetime.date'>
+    Key: issuing_authority, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 2889b07df8c467e530760f2e3329de597651e0feb824783bd9dbd6c8c886bbad
+                    Length of thing hashed: 99
+      CBORTag 24
+        Parsed 95 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 7536f50ae162785b2561f332484f4e02d27be9597d3be129ac41bce3bfa27810
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1749557145
+        Key: random, Value of type <class 'bytes'>
+                    Hash: fec9b132acca6b18d25320e84383b3802d2557f743468aba6d4367d921a7736d
+                    Length of thing hashed: 17
+          Error parsing data: unknown unsigned integer subtype 0x1d
+The hex is: 9db1b22babf6e8e8904cec85126e2565
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: e42d411e6ce9b2119293fd00bf569a8a8eb7816cfecc78d7e948417d610d5faa
+                    Length of thing hashed: 18
+          Parsing object of type <class 'str'>
+          String: issuing_authority
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 3599c70996c6ddabca4b9c63c428d82b64ce540070968cd52c4499846cc7c369
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: NY DMV
+    Key: issuing_country, Value of type <class '_cbor2.CBORTag'>
+                    Hash: a3ebcbcabdbfdb21724ae61205388a061f4f4da0b406fdd58df4fb8f13cb7f2a
+                    Length of thing hashed: 93
+      CBORTag 24
+        Parsed 89 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 5e147b0f762465e96d6bb56ec10cd515698c87348de7855c848a9b87489fb9ed
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1409432892
+        Key: random, Value of type <class 'bytes'>
+                    Hash: fa8f2be94b62cac9378ea438e1b84ac77ccca0603cb62ba9d99d7db5a4b78333
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 17 bytes, got 15 instead)
+The hex is: 7142cde12daf9e2ece7de9d9825a1b6d
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: fba661ea4246e4475c7e4854f13cf8a867cc1ca76ca1fcea479fc91bd2dffea4
+                    Length of thing hashed: 16
+          Parsing object of type <class 'str'>
+          String: issuing_country
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 62153e8414f1424e48136f18525621c5a4822db6418f5af36500b89cdaff519b
+                    Length of thing hashed: 3
+          Parsing object of type <class 'str'>
+          String: US
+    Key: issuing_jurisdiction, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 95ebd8d744cc864c563ca748e8e203df13e5891368697512f9f3ab3d4ba0dc21
+                    Length of thing hashed: 101
+      CBORTag 24
+        Parsed 97 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 931597aa42e2204f5680cdefb95218a224d10a41c6f818cba685bd411069270e
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1217249582
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 17cbadc1d3f924734db1bc7ab0b0de52f9a1db04b9faa862108e65e9e1904d2b
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: 17
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: b379cdc75112698aad12344e99688622c9fc3a9ccb6005ac12720ebde12d00f2
+                    Length of thing hashed: 21
+          Parsing object of type <class 'str'>
+          String: issuing_jurisdiction
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 7e059df8d2956e6a5c895f09aea4409f0d4555e0d3c625175973b41cdfb495cb
+                    Length of thing hashed: 6
+          Parsing object of type <class 'str'>
+          String: US-NY
+    Key: nationality, Value of type <class '_cbor2.CBORTag'>
+                    Hash: a897ed9263e505ea97a5015507b4bea079487e6f09c437b30757ec3d52a9e66b
+                    Length of thing hashed: 89
+      CBORTag 24
+        Parsed 85 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 46f2d4a5845f3278eda2bf3c12dbba4bccf15577a4213a97113d2e86fe943e36
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 155627905
+        Key: random, Value of type <class 'bytes'>
+                    Hash: dba7acc82cbc47841a05e2dfe523f8a7b7998c94055986fe7b222aec64863989
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -15
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: bae469a5940e39495297652331711497a5bc4e7ed729e7f14396bfa257682e31
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: nationality
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 62153e8414f1424e48136f18525621c5a4822db6418f5af36500b89cdaff519b
+                    Length of thing hashed: 3
+          Parsing object of type <class 'str'>
+          String: US
+    Key: portrait, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 5dbf8d454c71cf26cda0f3dc830ccb8ca721037cf51926cf5211458a4d3c1861
+                    Length of thing hashed: 105335
+      CBORTag 24
+        Parsed 105328 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 382f27331710b702c4ba1188d9fb79fe3cfadf947a1e06bef8d43d72567dbfee
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 935783380
+        Key: random, Value of type <class 'bytes'>
+                    Hash: c76e3503e658967d6c253f9ddb561439d707fd8740be6f2c9d31cce00482ddfa
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -112
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 1590e81975b37b088b00ddddda899195c5f08f3f36cbcbb692930cbd8858a60f
+                    Length of thing hashed: 9
+          Parsing object of type <class 'str'>
+          String: portrait
+        Key: elementValue, Value of type <class 'bytes'>
+                    Hash: c877d0bd8244e657f18182f783bcc4cd4be3863dfe8f352f2ed798563b7195a6
+                    Length of thing hashed: 105249
+          Parsed 105244 bytes to object of type <class 'float'>
+          Parsing object of type <class 'float'>
+    Key: portrait_capture_date, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 4f213d119002a4ce2aa22c5d68cebbe98a511c5e1a707c5fc706e4be798a9b94
+                    Length of thing hashed: 118
+      CBORTag 24
+        Parsed 114 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: d68ceafc0b4b403e03a0d10d2919991f4445ebde5d043b9acc3725eed05833c9
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 87276176
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 2651dd19d3bbbab0ee9484dd258b8ecf85c445785cb5891ec11c7a8def7321f7
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: 23
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: e0dfac9bc357b8af1d4289e013ef614494b5fabfa709ba88ef5d788cb35fcf1e
+                    Length of thing hashed: 22
+          Parsing object of type <class 'str'>
+          String: portrait_capture_date
+        Key: elementValue, Value of type <class 'datetime.datetime'>
+                    Hash: d8bd2770c2adadda3b048cf82d7186be9183560737677928c0eb4a3a157c609b
+                    Length of thing hashed: 22
+          Parsing object of type <class 'datetime.datetime'>
+          DateTime: 2020-01-01 12:00:00+00:00
+    Key: resident_address, Value of type <class '_cbor2.CBORTag'>
+                    Hash: e1ab99867941b9a653c870239a773483c9c621e486e1847ba907f93361bf03a4
+                    Length of thing hashed: 108
+      CBORTag 24
+        Parsed 104 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 623928efe94bd9429ce155c5865968860f99b6a4284fe9a390b52cb0a3a663b4
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 622008541
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 7efe8d0c26502805250da1e264dd0573a07d54d416dd1044ab6e754dc6f941a9
+                    Length of thing hashed: 17
+          Error parsing data: error decoding unicode string
+The hex is: c8b064fc36122180d8a1d03352265768
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 04f3c702b4dbca26344110714d8d346cb4a87724e295b4087bdd4721ed96243a
+                    Length of thing hashed: 17
+          Parsing object of type <class 'str'>
+          String: resident_address
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 17ff7137a72b05d1a2ba64767fea16ee5bc6ca8ec59bc57c9a4152f7bc8e1177
+                    Length of thing hashed: 17
+          Parsing object of type <class 'str'>
+          String: 138 Eagle Street
+    Key: resident_city, Value of type <class '_cbor2.CBORTag'>
+                    Hash: acccc2f4cb34b213878a8ea5a51bd4f9661dd12ace9842675a04bf3a67a7e366
+                    Length of thing hashed: 95
+      CBORTag 24
+        Parsed 91 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 83a8b561f87f9a76fe6f9b574d49951e5784747fe4baf58c6eb2d4c468b66010
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 552965293
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 22ea46fd2c3c66ff03d47ddfbeeb7f74fa872ff6017c10b5d79168e284e5a500
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 19 bytes, got 4 instead)
+The hex is: b841f1ea36c3a3373895605349326411
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 0a2d0458dc18a54c6c36f3a739e73fcd67f683995c3e16313ede558f5c6288ff
+                    Length of thing hashed: 14
+          Parsing object of type <class 'str'>
+          String: resident_city
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: ed9a4a8f69598e3971f8658dfb0abfd44880140a76ac447f6b9e117f7b4c3c40
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: Albany
+    Key: resident_country, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 4dbac8fc9f1230ca5ab4f65032f602cb623918f7f669f823f26b6164186b5287
+                    Length of thing hashed: 94
+      CBORTag 24
+        Parsed 90 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 17ff50b4def240d2e673349e373dbc84c2ec8dd0899a8c9582bae1e3779516e2
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1723317653
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 815de934325f5e088b5263e700ad13f28bb19736a39ffa5e720c2c6aee3b3a56
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'CBORSimpleValue'>
+          Parsing object of type <class 'CBORSimpleValue'>
+          tuple of length 1
+          Item 0:
+            Parsing object of type <class 'int'>
+            Int: 1
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: e8913256a03c524a3182846102a3927b6cdb434e5f8eecd860d4269536ac9f91
+                    Length of thing hashed: 17
+          Parsing object of type <class 'str'>
+          String: resident_country
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 62153e8414f1424e48136f18525621c5a4822db6418f5af36500b89cdaff519b
+                    Length of thing hashed: 3
+          Parsing object of type <class 'str'>
+          String: US
+    Key: resident_postal_code, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 9116797e98fe38f70c2136b58270dd0e1dbc0761e7f647ed2b463d7a767de054
+                    Length of thing hashed: 106
+      CBORTag 24
+        Parsed 102 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 2283db798d05b5f4c54ea669ad7f1b341dacc8f4b9e561786b31df1cfd8f9250
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1966654058
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 0c338361bc04b892e946076e0ade0e1c4fb1898ad946dc45cf8cf844d2970d8d
+                    Length of thing hashed: 17
+          Error parsing data: error decoding unicode string
+The hex is: 916cc1243ae3f8ffdc28f285e07efdbc
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: b92880796e10a8582ca49e35b1ed6dee0781cd89b0668bf5649870ceef435129
+                    Length of thing hashed: 21
+          Parsing object of type <class 'str'>
+          String: resident_postal_code
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: cf55b4b1fb55327710f4d2101d781bd6f9d2908a6710aaea2b174e1f0e606e16
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: 12202-1719
+    Key: resident_state, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 53c8ac82b46b2315fc03b96459e3206dcedc6185ec8dc77386c517d8b0aadd65
+                    Length of thing hashed: 98
+      CBORTag 24
+        Parsed 94 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: bd068712d5f91ebe19ad7c4aa7576f9d13235c6ec04e7030639791e9791878e6
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1760766134
+        Key: random, Value of type <class 'bytes'>
+                    Hash: e879d5efa82259a223e148140e018d377da555109bf337f752aeab98a4ed8729
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'dict'>
+          Parsing object of type <class 'dict'>
+          'dict' of length 0
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: eded97c970bc1d31a86738ea1026be8cc156104e23291dab39ca30a0a84215e2
+                    Length of thing hashed: 15
+          Parsing object of type <class 'str'>
+          String: resident_state
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 74b96a6b890d1bc36e312ac05b33d531f0a2194184f10ee6281da9c7a6c4e6dc
+                    Length of thing hashed: 9
+          Parsing object of type <class 'str'>
+          String: New York
+    Key: sex, Value of type <class '_cbor2.CBORTag'>
+                    Hash: c45b8de6d6ba59cc998818874824040b8af53f7618775f2aadb1b78f9ba00d81
+                    Length of thing hashed: 79
+      CBORTag 24
+        Parsed 75 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: ec5ec078124a15299fc3dc649eb501872a712c815b88e004c593e65fe9e9a5f0
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 670451011
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 0ccdc347f8d13941ea7c53793918ef98af0b1baf18b76d9b812cc83f048ae940
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: 7
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 40b1aa77b0d54b1051e600a5678a82d4c231072b7c9c4eb544c0d1837f0cbc51
+                    Length of thing hashed: 4
+          Parsing object of type <class 'str'>
+          String: sex
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: un_distinguishing_sign, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 8c3cc4e5714865c50556cf8b2e3c193a2af737655338ab6ca0641e749c507f44
+                    Length of thing hashed: 101
+      CBORTag 24
+        Parsed 97 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 9688a6d8c109d99aa19a872af96d5d72d3b6250bafd1ef916a4b415be00dfa0c
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1645309580
+        Key: random, Value of type <class 'bytes'>
+                    Hash: a7d09955ad28267969def4d30abcc13fce28be719c3948ecab26cb5329052b35
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'CBORSimpleValue'>
+          Parsing object of type <class 'CBORSimpleValue'>
+          tuple of length 1
+          Item 0:
+            Parsing object of type <class 'int'>
+            Int: 5
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 56502947b84334bf8e1a880e0688eb1f25d510e2cced4de40223ad8c061351d5
+                    Length of thing hashed: 23
+          Parsing object of type <class 'str'>
+          String: un_distinguishing_sign
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 646641fd8e8bd27ad8026398c3d999d15e251605cb14b50a19a54224c4d8929b
+                    Length of thing hashed: 4
+          Parsing object of type <class 'str'>
+          String: USA
+    Key: weight, Value of type <class '_cbor2.CBORTag'>
+                    Hash: fb5297e6dd6adcd8ba0f1699fdb145884f72f40a4f09b786917010a446343295
+                    Length of thing hashed: 83
+      CBORTag 24
+        Parsed 79 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 1c0c9df3fc733e26b85ab4a28bfb8c11c3c1c9481bcac2d9b5c192a6793ea241
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 713326463
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 3a20b606ef3194c6f6732a323d3ab6ce031493099a14b0e8b4efc83325f501e1
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -17
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 0174480ebf9862f7466bdb828b1844760b1a13b1a7002d6f6c87f3e5f0c246e8
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: weight
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 9c30f3c2a2c93b749e61caa1c399b2b4a602e839a65e2c172bffcc1a30a7a76b
+                    Length of thing hashed: 2
+          Parsing object of type <class 'int'>
+          Int: 70
+  Key: org.iso.18013.5.1.aamva, Value of type <class 'dict'>
+                    Hash: 4429b36a866bef41d364ad3b89a9714d6a60eb690c61cfc574a6ac4444774631
+                    Length of thing hashed: 2435
+    Parsing object of type <class 'dict'>
+    'dict' of length 19
+    Key: CDL_indicator, Value of type <class '_cbor2.CBORTag'>
+                    Hash: b04c5cd60ab5b3c20f53c0a684b59df00ba9c1919cf08ebeebafeee8a618b2f8
+                    Length of thing hashed: 89
+      CBORTag 24
+        Parsed 85 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 63abe589ffef78ae291676e0f4de1885639a814e0b0d27b0d10d932fe186fa98
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1562222195
+        Key: random, Value of type <class 'bytes'>
+                    Hash: dcfdf1245b3f929687d4a0b9f8f6b01a6db1fd6f3f3b966e3a0dee880970eda9
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 21 bytes, got 15 instead)
+The hex is: 5517b70104a136eb854285c2a1961f1c
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 4b707ec58b6ab12134b3cff2451f3f4c27e133b04209ee67e73c5123ced09ec4
+                    Length of thing hashed: 14
+          Parsing object of type <class 'str'>
+          String: CDL_indicator
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: DHS_compliance, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 64339d793bf782e97dae92be097b51e8e1a6e8ca7f2d5ff5b99a3f6eb9565d35
+                    Length of thing hashed: 91
+      CBORTag 24
+        Parsed 87 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 213989b1133d94e22055c3d13f6da12adb61287291d9462c4e19d49460f7aaf0
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 2044050524
+        Key: random, Value of type <class 'bytes'>
+                    Hash: daedc4aeeb84f6ff1d408ab414daec6d8e2f71934477b6f540c8bafc07865884
+                    Length of thing hashed: 17
+          Error parsing data: unknown unsigned integer subtype 0x1c
+The hex is: a53c4e4a50d9fb14f9720e7992e571ff
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 70b0db549b4182073fea58e436acbf39fe8a5f1b73f6e009ba6d2e29ddb87d16
+                    Length of thing hashed: 15
+          Parsing object of type <class 'str'>
+          String: DHS_compliance
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: fdbfc08753d32f6ed7f7e169ba9c7e9504fc2e46d243b683e049199067f6e3b7
+                    Length of thing hashed: 2
+          Parsing object of type <class 'str'>
+          String: F
+    Key: DHS_compliance_text, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 9e75709d2b0b5b0f24c9ee6a6f42aa60143b3c0a3fc549149c696e72487d067b
+                    Length of thing hashed: 104
+      CBORTag 24
+        Parsed 100 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 11a18d55a9b5cc2ecd3400204e0e42b5ea8ba7b821047dae823333b1703311ff
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 2138944292
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 4f3c5c8971fd3bed95c55cc6278f7e2c3121eac48ae75d0dc3b788ece0e48c4d
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -4
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 2a1978b271a69f0531a3208445f6620b794a3501a74f009e5e037095837a6226
+                    Length of thing hashed: 20
+          Parsing object of type <class 'str'>
+          String: DHS_compliance_text
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: d90ccdb005edf8c6fce2458dcd8e2f0f3d9e8c078127d15d2aa181dff66fb7ff
+                    Length of thing hashed: 10
+          Parsing object of type <class 'str'>
+          String: Compliant
+    Key: DHS_temporary_lawful_status, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 5032603d08e3b30ecc83ba1f4200f5efdcf191ecb1f48a22f2dd3429ba04bd1c
+                    Length of thing hashed: 104
+      CBORTag 24
+        Parsed 100 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 4062d6c54cafcb98fd1f13fed6e917e22cb74f21b3855ea3c8a1e3980beb618f
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 866396966
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 5439312c986a02d79aaa1ab338e363352c97a630c2d600e017b505edab6b0b3c
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'CBORSimpleValue'>
+          Parsing object of type <class 'CBORSimpleValue'>
+          tuple of length 1
+          Item 0:
+            Parsing object of type <class 'int'>
+            Int: 1
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: bc62836b22d05f4cc95732d3950024d09bf11dfd5ee0960522ef6d825cadd4b2
+                    Length of thing hashed: 29
+          Parsing object of type <class 'str'>
+          String: DHS_temporary_lawful_status
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: EDL_credential, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 91fec0a859cb2952c20c6e00c3db4eb2337bb9118338a94e7a51db7564e076a6
+                    Length of thing hashed: 90
+      CBORTag 24
+        Parsed 86 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: f5229238a9d166044129de458468b0e37f3c045156585aaf25e4f8905d17f9a7
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1293690301
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 5bafab6f56faf0ea5ca261e39f8df169dc90c78187b94dac68ae3f6286efadf2
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 9 bytes, got 6 instead)
+The hex is: b165543e5eca9c382c49a529a7c689ed
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 6f54edbad64bbceda4d16cb665e92abfc720eba485904c2153e309b511c5cc36
+                    Length of thing hashed: 15
+          Parsing object of type <class 'str'>
+          String: EDL_credential
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: aka_family_name.v2, Value of type <class '_cbor2.CBORTag'>
+                    Hash: c3038ad60e463e755ecf5fcbdd48cc0caeca6bf9c2462d641857efd9bd8d1312
+                    Length of thing hashed: 100
+      CBORTag 24
+        Parsed 96 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 106c9d1264bedd80497fefc84847462731cb84b472197799c7371a55243d7e4c
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 665046459
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 51270bfc91f734d25fa8ec801dca33587699867b5e139ccda1cc17ae61f86493
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 14 bytes, got 11 instead)
+The hex is: c8a4ee216e3d2fbceb6af357ce02a738
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 906132cc20fad7037c76117e3d67c86b7f57889ab589a3d2726aa4fc49827469
+                    Length of thing hashed: 19
+          Parsing object of type <class 'str'>
+          String: aka_family_name.v2
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 5922e67f2f1e102fbf5d714cabeb57c36859199c23772ba4a2f78d9cb60724cc
+                    Length of thing hashed: 7
+          Parsing object of type <class 'str'>
+          String: Smithy
+    Key: aka_given_name.v2, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 6fc8bed01b8d4d5f9459d4914bd242eb577032328c9e7e2456e12216d3d043d9
+                    Length of thing hashed: 97
+      CBORTag 24
+        Parsed 93 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: a36509f293be0a48d5af437ecf7d44997baa2ddeea2c20dd96bd184c2e8112bb
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1320952268
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 76a5791016f19c8380577bd1144fb4f508cd36b0bcd03069fd0b69b7e049ea36
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 65536 bytes, got 3 instead)
+The hex is: aaf313d75b5c57f4beb54874b67b52a3
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 9efc722b8dab6a216029143228600a730adffd6a05a44cd5e46644462a9f0e0b
+                    Length of thing hashed: 18
+          Parsing object of type <class 'str'>
+          String: aka_given_name.v2
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 9e54177761dad787686aaa2f597c03848d4b4e260b55d4f67a9a841ef10e5e76
+                    Length of thing hashed: 5
+          Parsing object of type <class 'str'>
+          String: Ally
+    Key: aka_suffix, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 6ea7c520dea49a36a11c99833fec9b95999baa096d39303e2983a7db41085fcd
+                    Length of thing hashed: 87
+      CBORTag 24
+        Parsed 83 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: f6e9e5bc5e13f93520de156fbc2da41bb2ebaba3f10b873fc5ab707f5f331a2f
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 671431096
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 89a8a75e5b3ae89e637509353152838eb95dadd202de2bfaf894838df36cf399
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -1
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: a516b7a4fc3b7c9c517c8c812dd080ba80ac1995642a1f681d47bda9f491a4a6
+                    Length of thing hashed: 11
+          Parsing object of type <class 'str'>
+          String: aka_suffix
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: bb07e545a712192efe08d6ff42745d7b4b4f2c2911825e8fc56a484f6bdde7e3
+                    Length of thing hashed: 2
+          Parsing object of type <class 'str'>
+          String: I
+    Key: domestic_driving_privileges, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 8d0a5c9d6ee3890674cc6ff87b4e9a01afc6eb5e1a258f41a8eda55e146038ff
+                    Length of thing hashed: 407
+      CBORTag 24
+        Parsed 402 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 0a38899293a297eaa39cd17e634caeeef1b01ba66383dde19a3cc682816af9bd
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1995774405
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 7e0d5933a1aea86328c6cad983bce54bb61e5fe5473797bee46fdea1b016c0cd
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -13
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: e4587be85f56ea21b7840e89d0b95c88a87d546325a7a2a9b55343ba0b9b6b1b
+                    Length of thing hashed: 29
+          Parsing object of type <class 'str'>
+          String: domestic_driving_privileges
+        Key: elementValue, Value of type <class 'list'>
+                    Hash: 73b2aa244f83c1cf6407b0b1459ac59fa2b12a4090e88dd1f5472e569e4bd521
+                    Length of thing hashed: 303
+          Parsing object of type <class 'list'>
+          list of length 2
+          Item 0:
+            Parsing object of type <class 'dict'>
+            'dict' of length 1
+            Key: domestic_vehicle_class, Value of type <class 'dict'>
+                    Hash: ef5f855150f5ba6509d8bced8dafcdc99652390a47b278db316b103db8b4c922
+                    Length of thing hashed: 127
+              Parsing object of type <class 'dict'>
+              'dict' of length 4
+              Key: issue_date, Value of type <class 'datetime.date'>
+                    Hash: 6927cc9324ea67f71d58f9a0116dac7e10734d0805a234ef52669f2a170dc35a
+                    Length of thing hashed: 14
+                Parsing object of type <class 'datetime.date'>
+              Key: expiry_date, Value of type <class 'datetime.date'>
+                    Hash: 9c626c361146ee668824d0ffd1c51fb9d1066454e43c80041121e268b0abe05d
+                    Length of thing hashed: 14
+                Parsing object of type <class 'datetime.date'>
+              Key: domestic_vehicle_class_code, Value of type <class 'str'>
+                    Hash: af1c08098cf119bb4981729721714a4b9948dbcb6b5fff21cb0f45f06ad1f7ea
+                    Length of thing hashed: 2
+                Parsing object of type <class 'str'>
+                String: A
+              Key: domestic_vehicle_class_description, Value of type <class 'str'>
+                    Hash: 845f79d0a5f4d5f8bed93bb0933987c68094ac8d4c976c44fd677e56df0cecdf
+                    Length of thing hashed: 8
+                Parsing object of type <class 'str'>
+                String: unknown
+          Item 1:
+            Parsing object of type <class 'dict'>
+            'dict' of length 1
+            Key: domestic_vehicle_class, Value of type <class 'dict'>
+                    Hash: 468a852b27c7b6eb1eeccdd7ccce22ca2e291d52f7f0bb4e2d1f1176aa4a5e9b
+                    Length of thing hashed: 127
+              Parsing object of type <class 'dict'>
+              'dict' of length 4
+              Key: issue_date, Value of type <class 'datetime.date'>
+                    Hash: 6927cc9324ea67f71d58f9a0116dac7e10734d0805a234ef52669f2a170dc35a
+                    Length of thing hashed: 14
+                Parsing object of type <class 'datetime.date'>
+              Key: expiry_date, Value of type <class 'datetime.date'>
+                    Hash: 9c626c361146ee668824d0ffd1c51fb9d1066454e43c80041121e268b0abe05d
+                    Length of thing hashed: 14
+                Parsing object of type <class 'datetime.date'>
+              Key: domestic_vehicle_class_code, Value of type <class 'str'>
+                    Hash: 042ac5b8da4052545d4b28fe223994711495be3cdeeb8a1f3e2a9d7d8bbae87c
+                    Length of thing hashed: 2
+                Parsing object of type <class 'str'>
+                String: B
+              Key: domestic_vehicle_class_description, Value of type <class 'str'>
+                    Hash: 845f79d0a5f4d5f8bed93bb0933987c68094ac8d4c976c44fd677e56df0cecdf
+                    Length of thing hashed: 8
+                Parsing object of type <class 'str'>
+                String: unknown
+    Key: family_name_truncation, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 0530634e7dd8b9794e3b93d9bb536556bec6e34088df8bf911582f2c49b70a48
+                    Length of thing hashed: 99
+      CBORTag 24
+        Parsed 95 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 964ea41eca8bbcbd7232ad32aea4c5a77dfba49f565e1b06105952e98c5c0525
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1292618449
+        Key: random, Value of type <class 'bytes'>
+                    Hash: e171856c2e87cda6bb6ff075b8f8dcb4ae6c0b6442ad9858bb1c4b11f03aac80
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'CBORSimpleValue'>
+          Parsing object of type <class 'CBORSimpleValue'>
+          tuple of length 1
+          Item 0:
+            Parsing object of type <class 'int'>
+            Int: 10
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 87d748daaf6040de26e334d4e24e20cb736aff511b05b33b2b65e38519c1e8ce
+                    Length of thing hashed: 23
+          Parsing object of type <class 'str'>
+          String: family_name_truncation
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 6b1c8513bf5e3bfce73c20b0b1b2af5d7788d5fc172ab1f257ec1240407088f9
+                    Length of thing hashed: 2
+          Parsing object of type <class 'str'>
+          String: N
+    Key: given_name_truncation, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 2547e31be8bffef91a624cffb7936e14db4dd0aa2fd7448a82746ce6db9d734e
+                    Length of thing hashed: 98
+      CBORTag 24
+        Parsed 94 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 16d170fbfdbe995831ea8160c270a329faacf4f2a8b83060c99c4d4232139cc5
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 733685676
+        Key: random, Value of type <class 'bytes'>
+                    Hash: deb897de4610bd2a854264a0bb0731b4e818b0fb1effaa23ee0e6df45f4a756b
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'dict'>
+          Parsing object of type <class 'dict'>
+          'dict' of length 0
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 387cfe288eb9bdec261047b46b91ad43dd8bb4234f3a14639afbe3db8deae42b
+                    Length of thing hashed: 22
+          Parsing object of type <class 'str'>
+          String: given_name_truncation
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 6b1c8513bf5e3bfce73c20b0b1b2af5d7788d5fc172ab1f257ec1240407088f9
+                    Length of thing hashed: 2
+          Parsing object of type <class 'str'>
+          String: N
+    Key: hazmat_endorsement_expiration_date, Value of type <class '_cbor2.CBORTag'>
+                    Hash: c931a842eb6c0de6228d1d8eeaf7c6ff2a2a76c79bbcda0555d4f16aa8a0e918
+                    Length of thing hashed: 124
+      CBORTag 24
+        Parsed 120 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 6811c45a72e84cf97dec4f0f437ec70f409f2e34871802744e1c1d453142da62
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 755233795
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 3ef4b8f4a0446e585f2c466bcb1dd96ecf254560792950f4c14395c2044f3280
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 19 bytes, got 15 instead)
+The hex is: 533a0e51df7d6736169878319ed3dd9b
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: d6c8d07d7912ea8f44b9905ebb34d72e9893324d640445f33dfead3d9e8691f4
+                    Length of thing hashed: 36
+          Parsing object of type <class 'str'>
+          String: hazmat_endorsement_expiration_date
+        Key: elementValue, Value of type <class 'datetime.date'>
+                    Hash: 0b6165921fb61ded82869a8c1e0753fed8a8e9fa3a1ef71de05b2078ebe7bbfc
+                    Length of thing hashed: 14
+          Parsing object of type <class 'datetime.date'>
+    Key: name_suffix, Value of type <class '_cbor2.CBORTag'>
+                    Hash: fc3b0e5cf2f535a3792272c3064ed1285ed3e8da047535da9bfec22b34dfd91e
+                    Length of thing hashed: 90
+      CBORTag 24
+        Parsed 86 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 6ee37857de4e9600556852529bf64e0a0118ef004f03d4b00fb117a14954daf8
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 988160543
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 8ee6e3f451f042b5214e810b6e19c509d817a2b60b062b9c471c35fa28b9db45
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'CBORSimpleValue'>
+          Parsing object of type <class 'CBORSimpleValue'>
+          tuple of length 1
+          Item 0:
+            Parsing object of type <class 'int'>
+            Int: 7
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: d561ceb4f4243ed3e23922612333384c2399c0c5d41a3b4ae09e5425b935ba11
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: name_suffix
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 350774c170f2ccabcd73f73138b6bb26a539216d029f84446df10e2c1eda5f06
+                    Length of thing hashed: 4
+          Parsing object of type <class 'str'>
+          String: 1ST
+    Key: organ_donor, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 88f14742b450a82c9487719e37a73004d79b1eadb8353a4d2c0df225005c0ad9
+                    Length of thing hashed: 87
+      CBORTag 24
+        Parsed 83 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: f4b33ee10da740bc9617437907db8a552f1b5789f394b1d4783d93acc259842d
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 1882503165
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 069a69282be7fadaf743a9615b90eda550e5058e8e7e3b2b359ccab3c690bf0c
+                    Length of thing hashed: 17
+          Error parsing data: unknown unsigned integer subtype 0x1e
+The hex is: 5e786fe8941ad2f8a490f41a0b391321
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 8fe652b907d748def6ff37c26fff239caa80cffffc99fe98639e31e62f5f0643
+                    Length of thing hashed: 12
+          Parsing object of type <class 'str'>
+          String: organ_donor
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: race_ethnicity, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 98df2bf82f99f03880b076cbeb4607ae7b95a6e4a70c41fd8ff1edfb5d99e0db
+                    Length of thing hashed: 92
+      CBORTag 24
+        Parsed 88 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: d48b3cb82a32751ec8e6419c464ba22f8669644b9c10f9092ac6f4c383a1aba8
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 224897666
+        Key: random, Value of type <class 'bytes'>
+                    Hash: b2a18fa616d30c02e8b0df81f0a2626d4ac053c0147e1272102b4465988e0d2e
+                    Length of thing hashed: 17
+          Error parsing data: premature end of stream (expected to read 22 bytes, got 9 instead)
+The hex is: 88da0aaad276564a31f13a25e090206c
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 70b909b308e39ea3f8f0189ab5b2ed4e9acd56aca10c9adc06c9815bcee83fc9
+                    Length of thing hashed: 15
+          Parsing object of type <class 'str'>
+          String: race_ethnicity
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 3ea4ff0f8e34b27d91b80b7bba3fae62ef54cb38dc379b4f2a9e91e72c1f0fac
+                    Length of thing hashed: 3
+          Parsing object of type <class 'str'>
+          String: AI
+    Key: resident_county, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 4d9dd0db1885967bb53b66d7b0a5e6916f90ac2953c3947b5874fb3d0a69d809
+                    Length of thing hashed: 94
+      CBORTag 24
+        Parsed 90 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 6322c80b2125c2453e7811134df9c6581d3d6d1e37020e696682c339502235f0
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 921556314
+        Key: random, Value of type <class 'bytes'>
+                    Hash: a45373b8fb6dde122213c40919cf205009812903fec2cd20b66fdc0de0f5c431
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'bytes'>
+          Parsing object of type <class 'bytes'>
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 0697c27eacf4be5b7513b8f47569991f0be51c1af006e2f00f98aab707f216e3
+                    Length of thing hashed: 16
+          Parsing object of type <class 'str'>
+          String: resident_county
+        Key: elementValue, Value of type <class 'str'>
+                    Hash: 26c0829cf76e048cbf7aa4ee214b4afc277b6d9de3144ce0ee4cfacee4ba31d7
+                    Length of thing hashed: 4
+          Parsing object of type <class 'str'>
+          String: 001
+    Key: sex, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 45a5e7eb2b1c641ba8cd9234feab0b6b036450034b690cf15f4294e8cfa36043
+                    Length of thing hashed: 79
+      CBORTag 24
+        Parsed 75 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: fc943f9a61525d94e6ba41bcaa0d6582f86ba58a90c8ebc7739d0dc50a491b42
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 369908822
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 765060f75cbbbe34d669a1ee544720b7750203260f44770f67c7e07dbbc6e2cf
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'CBORSimpleValue'>
+          Parsing object of type <class 'CBORSimpleValue'>
+          tuple of length 1
+          Item 0:
+            Parsing object of type <class 'int'>
+            Int: 13
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 40b1aa77b0d54b1051e600a5678a82d4c231072b7c9c4eb544c0d1837f0cbc51
+                    Length of thing hashed: 4
+          Parsing object of type <class 'str'>
+          String: sex
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: veteran, Value of type <class '_cbor2.CBORTag'>
+                    Hash: fb6f1d811787fffd1a6dcb13b7e76cf8d261520703dba5911f53601ecd52ca20
+                    Length of thing hashed: 83
+      CBORTag 24
+        Parsed 79 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 826ac5227d944dd7fb5f5a81d23fd015d0ef4afecf7221a8340ae5897c39b1f7
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 199173625
+        Key: random, Value of type <class 'bytes'>
+                    Hash: c7467a6f350e6cd7a7894d64d53756cacd299d04b14c925ef9ac99e090784f0d
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'str'>
+          Parsing object of type <class 'str'>
+          String: S
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 8d4658a9efa1ba5ad003e563dd6b52a4e83f40e517436c6d487d2ce118894d38
+                    Length of thing hashed: 8
+          Parsing object of type <class 'str'>
+          String: veteran
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 1
+    Key: weight_range, Value of type <class '_cbor2.CBORTag'>
+                    Hash: 3ebf11ee8f6c7e07d6986b9228cfee0161ca2be51823e3039edd0a98e957a72f
+                    Length of thing hashed: 88
+      CBORTag 24
+        Parsed 84 bytes to object of type <class 'dict'>
+        Parsing object of type <class 'dict'>
+        'dict' of length 4
+        Key: digestID, Value of type <class 'int'>
+                    Hash: 2747e3a9fc38a7bc5623a390939e751d816c83b9337c71ad626a7532508595e8
+                    Length of thing hashed: 5
+          Parsing object of type <class 'int'>
+          Int: 150932419
+        Key: random, Value of type <class 'bytes'>
+                    Hash: 12b28cda172ab2fc19e376950c74b1e80f91171dc470b52efdceea0be09a166d
+                    Length of thing hashed: 17
+          Parsed 16 bytes to object of type <class 'int'>
+          Parsing object of type <class 'int'>
+          Int: -2
+        Key: elementIdentifier, Value of type <class 'str'>
+                    Hash: 6b21261092876df34c22160e90adbb2baa08f0a28501c8994b7aff312af0b9ab
+                    Length of thing hashed: 13
+          Parsing object of type <class 'str'>
+          String: weight_range
+        Key: elementValue, Value of type <class 'int'>
+                    Hash: 084fed08b978af4d7d196a7446a86b58009e636b611db16211b65a9aadff29c5
+                    Length of thing hashed: 1
+          Parsing object of type <class 'int'>
+          Int: 3
