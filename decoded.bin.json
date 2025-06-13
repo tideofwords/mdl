@@ -1,0 +1,727 @@
+{
+  "id": "16",
+  "issuer_auth": [
+    {
+      "1": "-7"
+    },
+    {
+      "33": "-17"
+    },
+    {
+      "tag": 24,
+      "value": {
+        "version": "1.0",
+        "digestAlgorithm": "SHA-256",
+        "valueDigests": {
+          "org.iso.18013.5.1": {
+            "1923698": "0",
+            "87276176": "-2",
+            "155627905": "<binary data: a897ed9263e505ea97a5015507b4bea079487e6f09c437b30757ec3d52a9e66b>",
+            "188423167": "<binary data: 75f7a9c41cbfa75fc440dce69b4394948eae757bcf4159585f5afe6045ca5c13>",
+            "277714123": "3580081624",
+            "306975492": [
+              "11"
+            ],
+            "522529204": {
+              "tag": 14,
+              "value": "9"
+            },
+            "549386233": "<binary data: b82708e722c049c8bb91f87520ad43d64c73883fe6f00ef561abc74ebd94e309>",
+            "552965293": "<binary data: acccc2f4cb34b213878a8ea5a51bd4f9661dd12ace9842675a04bf3a67a7e366>",
+            "604136720": {
+              "tag": 20,
+              "value": "<binary data: 75c019fba27ce9e45548cdf2e771372a3faa9de1>"
+            },
+            "622008541": [
+              "1"
+            ],
+            "669216167": "<binary data: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301>",
+            "670451011": "<binary data: c45b8de6d6ba59cc998818874824040b8af53f7618775f2aadb1b78f9ba00d81>",
+            "713326463": "7.607634252782751e+89",
+            "935783380": "<binary data: 5dbf8d454c71cf26cda0f3dc830ccb8ca721037cf51926cf5211458a4d3c1861>",
+            "1007109838": "-19",
+            "1010531607": "<binary data: bd4524877110927dfc584816c0d507ad9c0367988b01c7c7ecd50901a69379d0>",
+            "1082869776": "<binary data: bf17d7b70fa32e24d40245a2bc7a387c87459c4f00d8c6df5aaa3b2c26071ed5>",
+            "1217249582": "<binary data: 95ebd8d744cc864c563ca748e8e203df13e5891368697512f9f3ab3d4ba0dc21>",
+            "1353949336": "22",
+            "1409432892": "<binary data: a3ebcbcabdbfdb21724ae61205388a061f4f4da0b406fdd58df4fb8f13cb7f2a>",
+            "1485031251": "<binary data: d33c57b9a46caf1d9121bec3272156d75953212b902b628ec5b459f5371b9f32>",
+            "1527892759": "<binary data: c21b5dcf828ddffb8301965175dfcdeeee9132435338364942ef1b7a9df3d78d>",
+            "1645309580": "<binary data: 8c3cc4e5714865c50556cf8b2e3c193a2af737655338ab6ca0641e749c507f44>",
+            "1695363034": "<binary data: 958ef3030e3aab9ee1176ed5c983eedbbd246bb3478a8c8106443f6dc6f75891>",
+            "1723317653": "<binary data: bac8fc9f1230ca5ab4f65032f6>",
+            "1749557145": "-9",
+            "1760766134": "<binary data: c8ac82b46b2315fc03b96459e3206dcedc6185>",
+            "1837341636": "<binary data: 6f6e673c3bd24e80590950dd39afa5203a8348debe30e1952ae9b7477c2c609d>",
+            "1848090974": "<binary data: 7aa56106289b8bc52de6f0584a9f2579a4152d85c00f560394de71e6a1f388f7>",
+            "1960236129": "-10",
+            "1966654058": "<binary data: 9116797e98fe38f70c2136b58270dd0e1dbc0761e7f647ed2b463d7a767de054>",
+            "1974510984": "<binary data: acfd93cd86dba89c551d044a63c43c991bc5f68eadbcad811dc70fd13d50d6f9>",
+            "2054379700": "<binary data: 78b48323ced9d4b72a7ce91eddded60f384b0b8fc746eb08a17ffbab2a16a530>",
+            "2101479462": "True",
+            "2125993365": "21",
+            "2144539170": "<binary data: 9f1ba327f2db5c84932bc88a0e97a7f8c3c6b84763a28b1a91769ddf1aaa6d68>"
+          },
+          "org.iso.18013.5.1.aamva": {
+            "31032526": "<binary data: cd7c45abd36c4cadc8d6b6de27a7e2a817297223ec5fcaadc7ea4c5423303af0>",
+            "150932419": "<binary data: 3ebf11ee8f6c7e07d6986b9228cfee0161ca2be51823e3039edd0a98e957a72f>",
+            "184079501": "<binary data: ac2bafc3398af51cb17d279899e35a7e6c8fa98ceed2b133fdf122ce406c5b13>",
+            "199173625": "1.7473566319006428e+227",
+            "224897666": "<binary data: 98df2bf82f99f03880b076cbeb4607ae7b95a6e4a70c41fd8ff1edfb5d99e0db>",
+            "254697587": "True",
+            "369908822": "<binary data: a5e7eb2b1c>",
+            "507287947": [
+              "14"
+            ],
+            "665046459": "<binary data: c3038ad60e463e755ecf5fcbdd48cc0caeca6bf9c2462d641857efd9bd8d1312>",
+            "671431096": "<binary data: 6ea7c520dea49a36a11c99833fec9b95999baa096d39303e2983a7db41085fcd>",
+            "733685676": "-6",
+            "755233795": {
+              "tag": 9,
+              "value": "-18"
+            },
+            "866396966": "-19",
+            "921556314": "<binary data: 9dd0db1885967bb53b66d7b0a5>",
+            "952838723": [
+              "6"
+            ],
+            "988160543": "<binary data: fc3b0e5cf2f535a3792272c3064ed1285ed3e8da047535da9bfec22b34dfd91e>",
+            "1292618449": "5",
+            "1293690301": "<binary data: 91fec0a859cb2952c20c6e00c3db4eb2337bb9118338a94e7a51db7564e076a6>",
+            "1320952268": "<binary data: 6fc8bed01b8d4d5f9459d4914bd242eb577032328c9e7e2456e12216d3d043d9>",
+            "1400777185": {
+              "tag": 11,
+              "value": "-4"
+            },
+            "1432459200": "<binary data: 3ea07623e2e51cc253536d7f95309f16392adf>",
+            "1562222195": "<binary data: b04c5cd60ab5b3c20f53c0a684b59df00ba9c1919cf08ebeebafeee8a618b2f8>",
+            "1882503165": "<binary data: 88f14742b450a82c9487719e37a73004d79b1eadb8353a4d2c0df225005c0ad9>",
+            "1899089312": "22",
+            "1930316375": [
+              "1"
+            ],
+            "1995774405": "<binary data: 8d0a5c9d6ee3890674cc6ff87b4e9a01afc6eb5e1a258f41a8eda55e146038ff>",
+            "2044050524": "<binary data: 64339d793bf782e97dae92be097b51e8e1a6e8ca7f2d5ff5b99a3f6eb9565d35>",
+            "2138944292": "<binary data: 9e75709d2b0b5b0f24c9ee6a6f42aa60143b3c0a3fc549149c696e72487d067b>"
+          }
+        },
+        "deviceKeyInfo": {
+          "deviceKey": {
+            "1": "2",
+            "-1": "1",
+            "-2": "<binary data: 59fc5c8006ac52a39479c1aabacbbd1d56fcb98feeaa182334c45b3a7609029e>",
+            "-3": "<binary data: 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d>"
+          }
+        },
+        "docType": "org.iso.18013.5.1.mDL",
+        "validityInfo": {
+          "signed": "2023-11-07T15:41:06+00:00",
+          "validFrom": "2023-11-07T15:41:06+00:00",
+          "validUntil": "2023-11-07T15:41:06+00:00"
+        }
+      }
+    },
+    "9"
+  ],
+  "mso": {
+    "version": "1.0",
+    "digestAlgorithm": "SHA-256",
+    "valueDigests": {
+      "org.iso.18013.5.1": {
+        "1923698": "0",
+        "87276176": "-2",
+        "155627905": "<binary data: a897ed9263e505ea97a5015507b4bea079487e6f09c437b30757ec3d52a9e66b>",
+        "188423167": "<binary data: 75f7a9c41cbfa75fc440dce69b4394948eae757bcf4159585f5afe6045ca5c13>",
+        "277714123": "3580081624",
+        "306975492": [
+          "11"
+        ],
+        "522529204": {
+          "tag": 14,
+          "value": "9"
+        },
+        "549386233": "<binary data: b82708e722c049c8bb91f87520ad43d64c73883fe6f00ef561abc74ebd94e309>",
+        "552965293": "<binary data: acccc2f4cb34b213878a8ea5a51bd4f9661dd12ace9842675a04bf3a67a7e366>",
+        "604136720": {
+          "tag": 20,
+          "value": "<binary data: 75c019fba27ce9e45548cdf2e771372a3faa9de1>"
+        },
+        "622008541": [
+          "1"
+        ],
+        "669216167": "<binary data: ae963ab6842b199da737829b0b427ff3a2f140d5b99eec7aec259da249554301>",
+        "670451011": "<binary data: c45b8de6d6ba59cc998818874824040b8af53f7618775f2aadb1b78f9ba00d81>",
+        "713326463": "7.607634252782751e+89",
+        "935783380": "<binary data: 5dbf8d454c71cf26cda0f3dc830ccb8ca721037cf51926cf5211458a4d3c1861>",
+        "1007109838": "-19",
+        "1010531607": "<binary data: bd4524877110927dfc584816c0d507ad9c0367988b01c7c7ecd50901a69379d0>",
+        "1082869776": "<binary data: bf17d7b70fa32e24d40245a2bc7a387c87459c4f00d8c6df5aaa3b2c26071ed5>",
+        "1217249582": "<binary data: 95ebd8d744cc864c563ca748e8e203df13e5891368697512f9f3ab3d4ba0dc21>",
+        "1353949336": "22",
+        "1409432892": "<binary data: a3ebcbcabdbfdb21724ae61205388a061f4f4da0b406fdd58df4fb8f13cb7f2a>",
+        "1485031251": "<binary data: d33c57b9a46caf1d9121bec3272156d75953212b902b628ec5b459f5371b9f32>",
+        "1527892759": "<binary data: c21b5dcf828ddffb8301965175dfcdeeee9132435338364942ef1b7a9df3d78d>",
+        "1645309580": "<binary data: 8c3cc4e5714865c50556cf8b2e3c193a2af737655338ab6ca0641e749c507f44>",
+        "1695363034": "<binary data: 958ef3030e3aab9ee1176ed5c983eedbbd246bb3478a8c8106443f6dc6f75891>",
+        "1723317653": "<binary data: bac8fc9f1230ca5ab4f65032f6>",
+        "1749557145": "-9",
+        "1760766134": "<binary data: c8ac82b46b2315fc03b96459e3206dcedc6185>",
+        "1837341636": "<binary data: 6f6e673c3bd24e80590950dd39afa5203a8348debe30e1952ae9b7477c2c609d>",
+        "1848090974": "<binary data: 7aa56106289b8bc52de6f0584a9f2579a4152d85c00f560394de71e6a1f388f7>",
+        "1960236129": "-10",
+        "1966654058": "<binary data: 9116797e98fe38f70c2136b58270dd0e1dbc0761e7f647ed2b463d7a767de054>",
+        "1974510984": "<binary data: acfd93cd86dba89c551d044a63c43c991bc5f68eadbcad811dc70fd13d50d6f9>",
+        "2054379700": "<binary data: 78b48323ced9d4b72a7ce91eddded60f384b0b8fc746eb08a17ffbab2a16a530>",
+        "2101479462": "True",
+        "2125993365": "21",
+        "2144539170": "<binary data: 9f1ba327f2db5c84932bc88a0e97a7f8c3c6b84763a28b1a91769ddf1aaa6d68>"
+      },
+      "org.iso.18013.5.1.aamva": {
+        "31032526": "<binary data: cd7c45abd36c4cadc8d6b6de27a7e2a817297223ec5fcaadc7ea4c5423303af0>",
+        "150932419": "<binary data: 3ebf11ee8f6c7e07d6986b9228cfee0161ca2be51823e3039edd0a98e957a72f>",
+        "184079501": "<binary data: ac2bafc3398af51cb17d279899e35a7e6c8fa98ceed2b133fdf122ce406c5b13>",
+        "199173625": "1.7473566319006428e+227",
+        "224897666": "<binary data: 98df2bf82f99f03880b076cbeb4607ae7b95a6e4a70c41fd8ff1edfb5d99e0db>",
+        "254697587": "True",
+        "369908822": "<binary data: a5e7eb2b1c>",
+        "507287947": [
+          "14"
+        ],
+        "665046459": "<binary data: c3038ad60e463e755ecf5fcbdd48cc0caeca6bf9c2462d641857efd9bd8d1312>",
+        "671431096": "<binary data: 6ea7c520dea49a36a11c99833fec9b95999baa096d39303e2983a7db41085fcd>",
+        "733685676": "-6",
+        "755233795": {
+          "tag": 9,
+          "value": "-18"
+        },
+        "866396966": "-19",
+        "921556314": "<binary data: 9dd0db1885967bb53b66d7b0a5>",
+        "952838723": [
+          "6"
+        ],
+        "988160543": "<binary data: fc3b0e5cf2f535a3792272c3064ed1285ed3e8da047535da9bfec22b34dfd91e>",
+        "1292618449": "5",
+        "1293690301": "<binary data: 91fec0a859cb2952c20c6e00c3db4eb2337bb9118338a94e7a51db7564e076a6>",
+        "1320952268": "<binary data: 6fc8bed01b8d4d5f9459d4914bd242eb577032328c9e7e2456e12216d3d043d9>",
+        "1400777185": {
+          "tag": 11,
+          "value": "-4"
+        },
+        "1432459200": "<binary data: 3ea07623e2e51cc253536d7f95309f16392adf>",
+        "1562222195": "<binary data: b04c5cd60ab5b3c20f53c0a684b59df00ba9c1919cf08ebeebafeee8a618b2f8>",
+        "1882503165": "<binary data: 88f14742b450a82c9487719e37a73004d79b1eadb8353a4d2c0df225005c0ad9>",
+        "1899089312": "22",
+        "1930316375": [
+          "1"
+        ],
+        "1995774405": "<binary data: 8d0a5c9d6ee3890674cc6ff87b4e9a01afc6eb5e1a258f41a8eda55e146038ff>",
+        "2044050524": "<binary data: 64339d793bf782e97dae92be097b51e8e1a6e8ca7f2d5ff5b99a3f6eb9565d35>",
+        "2138944292": "<binary data: 9e75709d2b0b5b0f24c9ee6a6f42aa60143b3c0a3fc549149c696e72487d067b>"
+      }
+    },
+    "deviceKeyInfo": {
+      "deviceKey": {
+        "1": "2",
+        "-1": "1",
+        "-2": "<binary data: 59fc5c8006ac52a39479c1aabacbbd1d56fcb98feeaa182334c45b3a7609029e>",
+        "-3": "<binary data: 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d>"
+      }
+    },
+    "docType": "org.iso.18013.5.1.mDL",
+    "validityInfo": {
+      "signed": "2023-11-07T15:41:06+00:00",
+      "validFrom": "2023-11-07T15:41:06+00:00",
+      "validUntil": "2023-11-07T15:41:06+00:00"
+    }
+  },
+  "namespaces": {
+    "org.iso.18013.5.1": {
+      "administrative_number": {
+        "tag": 24,
+        "value": {
+          "digestID": "669216167",
+          "random": "5",
+          "elementIdentifier": "administrative_number",
+          "elementValue": "ABC123"
+        }
+      },
+      "age_birth_year": {
+        "tag": 24,
+        "value": {
+          "digestID": "277714123",
+          "random": "-8",
+          "elementIdentifier": "age_birth_year",
+          "elementValue": "1980"
+        }
+      },
+      "age_in_years": {
+        "tag": 24,
+        "value": {
+          "digestID": "188423167",
+          "random": {
+            "tag": 18,
+            "value": "2"
+          },
+          "elementIdentifier": "age_in_years",
+          "elementValue": "43"
+        }
+      },
+      "age_over_18": {
+        "tag": 24,
+        "value": {
+          "digestID": "1082869776",
+          "random": "<binary data: a32a17a66a1fa97e1523c53e9d4e5619>",
+          "elementIdentifier": "age_over_18",
+          "elementValue": "True"
+        }
+      },
+      "age_over_21": {
+        "tag": 24,
+        "value": {
+          "digestID": "1353949336",
+          "random": "-17",
+          "elementIdentifier": "age_over_21",
+          "elementValue": "True"
+        }
+      },
+      "birth_date": {
+        "tag": 24,
+        "value": {
+          "digestID": "549386233",
+          "random": "<binary data: 3dccc3099744af363246d34cf988d538>",
+          "elementIdentifier": "birth_date",
+          "elementValue": "1980-01-01"
+        }
+      },
+      "birth_place": {
+        "tag": 24,
+        "value": {
+          "digestID": "604136720",
+          "random": "False",
+          "elementIdentifier": "birth_place",
+          "elementValue": "Canada"
+        }
+      },
+      "document_number": {
+        "tag": 24,
+        "value": {
+          "digestID": "2125993365",
+          "random": "<binary data: 9fcb84401082ccecb9a85b6275ea2832>",
+          "elementIdentifier": "document_number",
+          "elementValue": "DL12345678"
+        }
+      },
+      "driving_privileges": {
+        "tag": 24,
+        "value": {
+          "digestID": "1010531607",
+          "random": "-21",
+          "elementIdentifier": "driving_privileges",
+          "elementValue": [
+            {
+              "issue_date": "2020-01-01",
+              "expiry_date": "2030-01-01",
+              "vehicle_category_code": "A"
+            },
+            {
+              "issue_date": "2020-01-01",
+              "expiry_date": "2030-01-01",
+              "vehicle_category_code": "B"
+            }
+          ]
+        }
+      },
+      "expiry_date": {
+        "tag": 24,
+        "value": {
+          "digestID": "306975492",
+          "random": "<binary data: 9baa2406a80c6fcb99bfe61cd27ae340>",
+          "elementIdentifier": "expiry_date",
+          "elementValue": "2030-01-01"
+        }
+      },
+      "eye_colour": {
+        "tag": 24,
+        "value": {
+          "digestID": "2144539170",
+          "random": "<binary data: 9430c66555eac407c0c67d92b154db7e>",
+          "elementIdentifier": "eye_colour",
+          "elementValue": "hazel"
+        }
+      },
+      "family_name": {
+        "tag": 24,
+        "value": {
+          "digestID": "1848090974",
+          "random": "11",
+          "elementIdentifier": "family_name",
+          "elementValue": "Smith"
+        }
+      },
+      "given_name": {
+        "tag": 24,
+        "value": {
+          "digestID": "1837341636",
+          "random": "<binary data: b7a8ed5cde3748b25a5cce531cfff526>",
+          "elementIdentifier": "given_name",
+          "elementValue": "Alice"
+        }
+      },
+      "hair_colour": {
+        "tag": 24,
+        "value": {
+          "digestID": "1485031251",
+          "random": "<binary data: 51c630e012290244f0484af6878b5a58>",
+          "elementIdentifier": "hair_colour",
+          "elementValue": "red"
+        }
+      },
+      "height": {
+        "tag": 24,
+        "value": {
+          "digestID": "522529204",
+          "random": "0",
+          "elementIdentifier": "height",
+          "elementValue": "170"
+        }
+      },
+      "issue_date": {
+        "tag": 24,
+        "value": {
+          "digestID": "1923698",
+          "random": "<binary data: 835ff6798cad729e2816a311b49a1379>",
+          "elementIdentifier": "issue_date",
+          "elementValue": "2020-01-01"
+        }
+      },
+      "issuing_authority": {
+        "tag": 24,
+        "value": {
+          "digestID": "1749557145",
+          "random": "<binary data: 9db1b22babf6e8e8904cec85126e2565>",
+          "elementIdentifier": "issuing_authority",
+          "elementValue": "NY DMV"
+        }
+      },
+      "issuing_country": {
+        "tag": 24,
+        "value": {
+          "digestID": "1409432892",
+          "random": "<binary data: 7142cde12daf9e2ece7de9d9825a1b6d>",
+          "elementIdentifier": "issuing_country",
+          "elementValue": "US"
+        }
+      },
+      "issuing_jurisdiction": {
+        "tag": 24,
+        "value": {
+          "digestID": "1217249582",
+          "random": "17",
+          "elementIdentifier": "issuing_jurisdiction",
+          "elementValue": "US-NY"
+        }
+      },
+      "nationality": {
+        "tag": 24,
+        "value": {
+          "digestID": "155627905",
+          "random": "-15",
+          "elementIdentifier": "nationality",
+          "elementValue": "US"
+        }
+      },
+      "portrait": {
+        "tag": 24,
+        "value": {
+          "digestID": "935783380",
+          "random": "-112",
+          "elementIdentifier": "portrait",
+          "elementValue": "-4.982935468325909e+120"
+        }
+      },
+      "portrait_capture_date": {
+        "tag": 24,
+        "value": {
+          "digestID": "87276176",
+          "random": "23",
+          "elementIdentifier": "portrait_capture_date",
+          "elementValue": "2020-01-01T12:00:00+00:00"
+        }
+      },
+      "resident_address": {
+        "tag": 24,
+        "value": {
+          "digestID": "622008541",
+          "random": "<binary data: c8b064fc36122180d8a1d03352265768>",
+          "elementIdentifier": "resident_address",
+          "elementValue": "138 Eagle Street"
+        }
+      },
+      "resident_city": {
+        "tag": 24,
+        "value": {
+          "digestID": "552965293",
+          "random": "<binary data: b841f1ea36c3a3373895605349326411>",
+          "elementIdentifier": "resident_city",
+          "elementValue": "Albany"
+        }
+      },
+      "resident_country": {
+        "tag": 24,
+        "value": {
+          "digestID": "1723317653",
+          "random": [
+            "1"
+          ],
+          "elementIdentifier": "resident_country",
+          "elementValue": "US"
+        }
+      },
+      "resident_postal_code": {
+        "tag": 24,
+        "value": {
+          "digestID": "1966654058",
+          "random": "<binary data: 916cc1243ae3f8ffdc28f285e07efdbc>",
+          "elementIdentifier": "resident_postal_code",
+          "elementValue": "12202-1719"
+        }
+      },
+      "resident_state": {
+        "tag": 24,
+        "value": {
+          "digestID": "1760766134",
+          "random": {},
+          "elementIdentifier": "resident_state",
+          "elementValue": "New York"
+        }
+      },
+      "sex": {
+        "tag": 24,
+        "value": {
+          "digestID": "670451011",
+          "random": "7",
+          "elementIdentifier": "sex",
+          "elementValue": "1"
+        }
+      },
+      "un_distinguishing_sign": {
+        "tag": 24,
+        "value": {
+          "digestID": "1645309580",
+          "random": [
+            "5"
+          ],
+          "elementIdentifier": "un_distinguishing_sign",
+          "elementValue": "USA"
+        }
+      },
+      "weight": {
+        "tag": 24,
+        "value": {
+          "digestID": "713326463",
+          "random": "-17",
+          "elementIdentifier": "weight",
+          "elementValue": "70"
+        }
+      }
+    },
+    "org.iso.18013.5.1.aamva": {
+      "CDL_indicator": {
+        "tag": 24,
+        "value": {
+          "digestID": "1562222195",
+          "random": "<binary data: 5517b70104a136eb854285c2a1961f1c>",
+          "elementIdentifier": "CDL_indicator",
+          "elementValue": "1"
+        }
+      },
+      "DHS_compliance": {
+        "tag": 24,
+        "value": {
+          "digestID": "2044050524",
+          "random": "<binary data: a53c4e4a50d9fb14f9720e7992e571ff>",
+          "elementIdentifier": "DHS_compliance",
+          "elementValue": "F"
+        }
+      },
+      "DHS_compliance_text": {
+        "tag": 24,
+        "value": {
+          "digestID": "2138944292",
+          "random": "-4",
+          "elementIdentifier": "DHS_compliance_text",
+          "elementValue": "Compliant"
+        }
+      },
+      "DHS_temporary_lawful_status": {
+        "tag": 24,
+        "value": {
+          "digestID": "866396966",
+          "random": [
+            "1"
+          ],
+          "elementIdentifier": "DHS_temporary_lawful_status",
+          "elementValue": "1"
+        }
+      },
+      "EDL_credential": {
+        "tag": 24,
+        "value": {
+          "digestID": "1293690301",
+          "random": "<binary data: b165543e5eca9c382c49a529a7c689ed>",
+          "elementIdentifier": "EDL_credential",
+          "elementValue": "1"
+        }
+      },
+      "aka_family_name.v2": {
+        "tag": 24,
+        "value": {
+          "digestID": "665046459",
+          "random": "<binary data: c8a4ee216e3d2fbceb6af357ce02a738>",
+          "elementIdentifier": "aka_family_name.v2",
+          "elementValue": "Smithy"
+        }
+      },
+      "aka_given_name.v2": {
+        "tag": 24,
+        "value": {
+          "digestID": "1320952268",
+          "random": "<binary data: aaf313d75b5c57f4beb54874b67b52a3>",
+          "elementIdentifier": "aka_given_name.v2",
+          "elementValue": "Ally"
+        }
+      },
+      "aka_suffix": {
+        "tag": 24,
+        "value": {
+          "digestID": "671431096",
+          "random": "-1",
+          "elementIdentifier": "aka_suffix",
+          "elementValue": "I"
+        }
+      },
+      "domestic_driving_privileges": {
+        "tag": 24,
+        "value": {
+          "digestID": "1995774405",
+          "random": "-13",
+          "elementIdentifier": "domestic_driving_privileges",
+          "elementValue": [
+            {
+              "domestic_vehicle_class": {
+                "issue_date": "2020-01-01",
+                "expiry_date": "2030-01-01",
+                "domestic_vehicle_class_code": "A",
+                "domestic_vehicle_class_description": "unknown"
+              }
+            },
+            {
+              "domestic_vehicle_class": {
+                "issue_date": "2020-01-01",
+                "expiry_date": "2030-01-01",
+                "domestic_vehicle_class_code": "B",
+                "domestic_vehicle_class_description": "unknown"
+              }
+            }
+          ]
+        }
+      },
+      "family_name_truncation": {
+        "tag": 24,
+        "value": {
+          "digestID": "1292618449",
+          "random": [
+            "10"
+          ],
+          "elementIdentifier": "family_name_truncation",
+          "elementValue": "N"
+        }
+      },
+      "given_name_truncation": {
+        "tag": 24,
+        "value": {
+          "digestID": "733685676",
+          "random": {},
+          "elementIdentifier": "given_name_truncation",
+          "elementValue": "N"
+        }
+      },
+      "hazmat_endorsement_expiration_date": {
+        "tag": 24,
+        "value": {
+          "digestID": "755233795",
+          "random": "<binary data: 533a0e51df7d6736169878319ed3dd9b>",
+          "elementIdentifier": "hazmat_endorsement_expiration_date",
+          "elementValue": "2024-01-30"
+        }
+      },
+      "name_suffix": {
+        "tag": 24,
+        "value": {
+          "digestID": "988160543",
+          "random": [
+            "7"
+          ],
+          "elementIdentifier": "name_suffix",
+          "elementValue": "1ST"
+        }
+      },
+      "organ_donor": {
+        "tag": 24,
+        "value": {
+          "digestID": "1882503165",
+          "random": "<binary data: 5e786fe8941ad2f8a490f41a0b391321>",
+          "elementIdentifier": "organ_donor",
+          "elementValue": "1"
+        }
+      },
+      "race_ethnicity": {
+        "tag": 24,
+        "value": {
+          "digestID": "224897666",
+          "random": "<binary data: 88da0aaad276564a31f13a25e090206c>",
+          "elementIdentifier": "race_ethnicity",
+          "elementValue": "AI"
+        }
+      },
+      "resident_county": {
+        "tag": 24,
+        "value": {
+          "digestID": "921556314",
+          "random": "<binary data: 8668af777419ac3f8f29f2cc09>",
+          "elementIdentifier": "resident_county",
+          "elementValue": "001"
+        }
+      },
+      "sex": {
+        "tag": 24,
+        "value": {
+          "digestID": "369908822",
+          "random": [
+            "13"
+          ],
+          "elementIdentifier": "sex",
+          "elementValue": "1"
+        }
+      },
+      "veteran": {
+        "tag": 24,
+        "value": {
+          "digestID": "199173625",
+          "random": "S",
+          "elementIdentifier": "veteran",
+          "elementValue": "1"
+        }
+      },
+      "weight_range": {
+        "tag": 24,
+        "value": {
+          "digestID": "150932419",
+          "random": "-2",
+          "elementIdentifier": "weight_range",
+          "elementValue": "3"
+        }
+      }
+    }
+  }
+}

@@ -90,3 +90,34 @@ The hex is: 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d
 
 The file sig_ver.py contains some code with an attempt to parse the signature,
 but I did not get it working.
+
+--
+
+Sunghyeon
+
+add cbor_parse.py, where output decoded.bin.json
+
+add hashcheck.py, that generates the preimage of the hash in MSO
+from the data in namespace ([
+    ("digestID", 1485031251),
+    ("random", bytes.fromhex("51c630e012290244f0484af6878b5a58")),
+    ("elementIdentifier", "hair_colour"),
+    ("elementValue", "red"),
+])
+
+add eccheck.py, and found that 
+
+(59fc5c8006ac52a39479c1aabacbbd1d56fcb98feeaa182334c45b3a7609029e, 3f501e5e20830c70b5a2ff3a0690a22e9782bb2c1a76fe798952daec599edd4d)
+
+is on the p-256 (secp256r) curve
+
+and also Item 3 is very likely to be a signature:
+0930566bdaa5b0dcc836d9cab505b3f05203bab80dedbb46b955e55ec9522c08ec579b858ef53bd1c7892e26265928c36f44e2ea1927fa07ea83242b61095d29
+
+is a signature (r,s) of msg, where each of r, s will be 64 bytes(256 bits)
+
+r: 0930566bdaa5b0dcc836d9cab505b3f05203bab80dedbb46b955e55ec9522c08
+s: ec579b858ef53bd1c7892e26265928c36f44e2ea1927fa07ea83242b61095d29
+
+signature.py 
+verifies issuer_auth payload and signature matches with issuer's public key (from issuer-cert.pem)
