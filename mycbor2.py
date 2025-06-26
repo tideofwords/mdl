@@ -33,6 +33,8 @@ def parse(data, depth = 0):
             v_bytes = cbor2.dumps(v)
             print(f"{'  ' * (10)}Hash: {sha256(v_bytes).hexdigest()}")
             print(f"{'  ' * (10)}Length of thing hashed: {len(v_bytes)}")
+            if type(v) == bytes:
+                print(f"{'  ' * (10)}Bytes: {v.hex()}")
             parse(v, depth + 1)
     elif isinstance(obj, (list, tuple)):
         print(f"{'  ' * depth}{'list' if isinstance(obj, list) else 'tuple'} of length {len(obj)}")

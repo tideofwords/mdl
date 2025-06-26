@@ -93,8 +93,6 @@ but I did not get it working.
 
 --
 
-Sunghyeon
-
 add cbor_parse.py, where output decoded.bin.json
 
 add hashcheck.py, that generates the preimage of the hash in MSO
